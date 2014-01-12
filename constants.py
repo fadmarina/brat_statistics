@@ -66,3 +66,9 @@ CONTENT_MISTAKES = {
     "content_pragmatics",
         "register"
 }
+
+WEIGHTS = [
+    "critical",
+    "major",
+    "minor"
+]
