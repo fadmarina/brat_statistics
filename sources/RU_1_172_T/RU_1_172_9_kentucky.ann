@@ -1,0 +1,43 @@
+T1	choice-of-word 340 358	ранее этим месяцем
+A1	Technology T1 too_literal
+A2	Weight T1 minor
+T2	language_lexical 466 489	они будут на юге Канады
+A3	Weight T2 minor
+T3	language_punctuation 597 603	поняла
+A4	Weight T3 minor
+T4	language_punctuation 643 655	постараться"
+A5	Technology T4 TL
+A6	Weight T4 minor
+T5	Good_job 932 963	что для бобслеиста - катастрофа
+T6	choice-of-word 973 979	смерти
+A7	Technology T6 TL
+A8	Weight T6 minor
+T7	language_spelling 1079 1088	олимпиаде
+A9	Technology T7 proper_name
+A10	Weight T7 major
+T8	capitals 1289 1295	Зимних
+A11	Technology T8 TL
+A12	Weight T8 minor
+T9	Good_job 1387 1465	Трек в Уистлере отличался тем, что нужно было быть очень точным и внимательным
+T10	language_punctuation 1842 1847	лучше
+A13	Weight T10 minor
+T11	language_punctuation 1898 1908	тренировок
+A14	Technology T11 TL
+A15	Weight T11 minor
+T12	ungrammatical 2108 2122	в летнее время
+A16	Weight T12 minor
+T13	choice-of-word 2129 2141	объединилась
+A17	Weight T13 minor
+T14	language_punctuation 2324 2328	году
+A18	Weight T14 minor
+T15	distortion 2397 2485	уверена, что в грядущем соревновании Мирового кубка я должна добиться чего-то особенного
+A19	Technology T15 SL
+A20	Weight T15 major
+T16	capitals 2631 2641	Британской
+A21	Technology T16 TL
+A22	Weight T16 major
+T17	Delete 2755 2768	международных
+T18	capitals 2982 2992	Британские
+A23	Weight T18 minor
+T19	choice-of-word 3198 3226	дополнительные 2 и 3 команды
+A24	Weight T19 minor

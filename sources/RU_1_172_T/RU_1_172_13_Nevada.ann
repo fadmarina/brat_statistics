@@ -1,0 +1,110 @@
+T1	omission 82 86	Хоуп
+A1	Technology T1 too_free
+A2	Weight T1 minor
+T2	content_reference 34 60	безопасность превыше всего
+A3	Weight T2 major
+T3	choice-of-word 99 116	бобслеисты-пилоты
+A4	Technology T3 too_literal
+A5	Weight T3 minor
+T4	distortion 160 201	столкнулись с гораздо большими проблемами
+A6	Technology T4 SL
+A7	Weight T4 major
+T5	distortion 266 281	Влюбленная пара
+A8	Technology T5 background_info
+A9	Weight T5 major
+T6	omission 386 389	игр
+A10	Technology T6 too_free
+A11	Weight T6 minor
+T7	unclear 440 469	олимпийского кубкового сезона
+A12	Weight T7 major
+T8	language_punctuation 584 589	иначе
+A13	Technology T8 TL
+A14	Weight T8 minor
+T9	distortion 666 678	контруклонов
+A15	Technology T9 too_free
+A16	Weight T9 major
+T10	language_punctuation 666 678	контруклонов
+A17	Technology T10 TL
+A18	Weight T10 minor
+T11	logic 814 828	особенно важно
+A19	Technology T11 TL
+A20	Weight T11 major
+T12	ThemeRheme 832 858	Меры безопасности повысили
+A21	Technology T12 TL
+A22	Weight T12 major
+T13	language_punctuation 865 873	трагедии
+A23	Technology T13 TL
+A24	Weight T13 minor
+T14	language_punctuation 970 978	скорость
+A25	Technology T14 TL
+A26	Weight T14 minor
+T15	Delete 1112 1118	вскоре
+T16	language_punctuation 1235 1244	Ванкувере
+A27	Technology T16 TL
+A28	Weight T16 minor
+T17	language_punctuation 1259 1262	том
+A29	Technology T17 TL
+A30	Weight T17 minor
+T18	distortion 1267 1289	не стоит зацикливаться
+A31	Technology T18 SL
+A32	Weight T18 critical
+T19	language_punctuation 1472 1483	спортсменов
+A33	Technology T19 TL
+A34	Weight T19 minor
+T20	word_order 1510 1526	по правде говоря
+A35	Technology T20 TL
+A36	Weight T20 major
+T21	distortion 1626 1637	ты молишься
+A37	Technology T21 SL
+A38	Weight T21 critical
+T22	distortion 1807 1829	отлично себя чувствуем
+A39	Weight T22 major
+T23	language_lexical 137 143	Уолкер
+A40	Technology T23 proper_name
+A41	Weight T23 minor
+T24	combinability 1962 1972	сезоне игр
+A42	Technology T24 TL
+A43	Weight T24 minor
+T25	choice-of-word 2060 2072	тормозильщик
+A44	Weight T25 major
+T26	language_lexical 2075 2082	Ребекка
+A45	Technology T26 proper_name
+A46	Weight T26 minor
+T27	language_punctuation 2083 2089	Уилсон
+A47	Technology T27 TL
+A48	Weight T27 minor
+T28	distortion 2181 2203	я не могла не отметить
+A49	Weight T28 major
+T29	language_punctuation 2114 2123	спортсмен
+A50	Technology T29 TL
+A51	Weight T29 minor
+T30	language_punctuation 2092 2100	Джиллиан
+A52	Technology T30 TL
+A53	Weight T30 minor
+T31	language_punctuation 2226 2233	Ребекки
+A54	Technology T31 TL
+A55	Weight T31 minor
+T32	language_punctuation 2300 2311	чувствовала
+A56	Technology T32 TL
+A57	Weight T32 minor
+T33	ungrammatical 2433 2441	для меня
+A58	Technology T33 TL
+A59	Weight T33 minor
+T34	choice-of-word 2408 2432	физическое превосходство
+A60	Technology T34 TL
+A61	Weight T34 minor
+T35	choice-of-word 2114 2123	спортсмен
+A62	Technology T35 TL
+A63	Weight T35 minor
+T36	distortion 2458 2582	Британская команда по бобслею рассчитывает на призовые места и обещает показать наивысшие результаты в будущих соревнованиях
+A64	Weight T36 critical
+T37	preposition 2685 2687	на
+A65	Technology T37 TL
+A66	Weight T37 minor
+T38	distortion 2632 2645	призовых мест
+A67	Technology T38 SL
+A68	Weight T38 major
+T39	distortion 2722 2744	должна будет отправить
+A69	Weight T39 major
+T40	distortion 3005 3018	первых этапов
+A70	Weight T40 major

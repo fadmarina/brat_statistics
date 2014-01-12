@@ -1,0 +1,119 @@
+T1	choice-of-word 71 80	осложнена
+A1	Technology T1 TL
+A2	Weight T1 minor
+T2	language_lexical 202 207	Паулы
+A3	Technology T2 proper_name
+A4	Weight T2 minor
+T3	ungrammatical 306 322	является сложнее
+A5	Technology T3 TL
+A6	Weight T3 minor
+T4	distortion 444 452	досрочно
+A7	Technology T4 SL
+A8	Weight T4 major
+T5	distortion 468 488	так как им запрещено
+A9	Technology T5 SL
+A10	Weight T5 critical
+T6	ungrammatical 620 637	сезонном открытия
+A11	Technology T6 TL
+A12	Weight T6 minor
+T7	choice-of-word 620 637	сезонном открытия
+A13	Technology T7 TL
+A14	Weight T7 minor
+T8	distortion 686 698	почувствовал
+A15	Technology T8 background_info
+A16	Weight T8 major
+T9	language_spelling 705 712	уверено
+A17	Technology T9 TL
+A18	Weight T9 minor
+T10	language_syntax 787 814	Это невероятно трудно ехать
+A19	Technology T10 too_literal
+A20	Weight T10 major
+T11	distortion 1011 1031	как  в другом спорте
+A21	Technology T11 SL
+A22	Weight T11 major
+T12	ungrammatical 1209 1242	Ванкувере 2010,который расположен
+A23	Technology T12 TL
+A24	Weight T12 major
+T13	capitals 1203 1206	Игр
+A25	Technology T13 proper_name
+A26	Weight T13 minor
+T14	incomplete_structure 1280 1287	подняли
+A27	Technology T14 TL
+A28	Weight T14 minor
+T15	language_syntax 1326 1338	Джексон, кто
+A29	Technology T15 TL
+A30	Weight T15 minor
+T16	capitals 1371 1377	Зимних
+A31	Technology T16 TL
+A32	Weight T16 minor
+T17	language_punctuation 1390 1397	играх -
+A33	Technology T17 TL
+A34	Weight T17 minor
+T18	ungrammatical 1505 1538	настолько должны быть осторожными
+A35	Technology T18 TL
+A36	Weight T18 major
+T19	nonsense 1581 1623	эта трасса почти не отличается от гоночной
+A37	Technology T19 SL
+A38	Weight T19 critical
+T20	language_lexical 1676 1682	Уолкер
+A39	Technology T20 proper_name
+A40	Weight T20 major
+T21	choice-of-word 1759 1764	этапы
+A41	Technology T21 TL
+A42	Weight T21 major
+T22	wrong_wordform 1838 1848	тренировки
+A43	Technology T22 TL
+A44	Weight T22 minor
+T23	choice-of-word 1942 1958	преуспеть на ней
+A45	Technology T23 TL
+A46	Weight T23 minor
+T24	unclear 2016 2035	оказалось правдивым
+A47	Technology T24 SL
+A48	Weight T24 critical
+T25	ungrammatical 2087 2103	за летние месяцы
+A49	Technology T25 TL
+A50	Weight T25 major
+T26	distortion 2127 2161	присоединилась в качестве капитана
+A51	Technology T26 SL
+A52	Weight T26 critical
+T27	ungrammatical 2162 2187	в женской ведущей команды
+A53	Technology T27 TL
+A54	Weight T27 major
+T28	language_lexical 2105 2112	Ребекка
+A55	Technology T28 proper_name
+A56	Weight T28 minor
+T29	distortion 2286 2322	заработала огромное количество денег
+A57	Technology T29 SL
+A58	Weight T29 critical
+T30	language_punctuation 2317 2322	денег
+A59	Technology T30 TL
+A60	Weight T30 minor
+T31	word_order 2401 2424	то-то сделать особенное
+A61	Technology T31 TL
+A62	Weight T31 major
+T32	wrong_wordform 2577 2587	завоевания
+A63	Technology T32 TL
+A64	Weight T32 minor
+T33	distortion 2629 2646	атмосферу доверия
+A65	Technology T33 SL
+A66	Weight T33 major
+T34	unclear 2703 2740	завоевание позиций в мировом рейтинге
+A67	Technology T34 TL
+A68	Weight T34 major
+T35	logic 2846 2896	из тех, которые они могут на самом деле заработать
+A69	Technology T35 TL
+A70	Weight T35 major
+T36	nonsense 2932 2999	Великобритании должно быть две  лучших женских команды  из 14 стран
+A71	Technology T36 TL
+A72	Weight T36 critical
+T37	nonsense 3003 3048	две мужских команды, состоящие из  20 человек
+A73	Weight T37 critical
+T38	distortion 3051 3113	оторые  приезжают в конец  квалификационного периода 19 января
+A74	Technology T38 SL
+A75	Weight T38 critical
+T39	choice-of-word 3140 3151	информацией
+A76	Technology T39 TL
+A77	Weight T39 major
+T40	nonsense 3153 3233	вторые - и команды третьего выбора начали свой сезон по американской схеме Кубка
+A78	Technology T40 SL
+A79	Weight T40 critical

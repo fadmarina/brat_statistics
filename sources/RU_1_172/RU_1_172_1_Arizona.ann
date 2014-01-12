@@ -1,0 +1,47 @@
+T1	Good_job 108 171	Спортивный корреспондент службы "Би-би-си" на Олимпийских играх
+T2	choice-of-word 352 358	двойка
+A1	Weight T2 major
+T3	capitals 532 536	Мира
+A2	Technology T3 proper_name
+T4	language_punctuation 638 651	постараться",
+T5	language_punctuation 695 703	"На этой
+A3	Weight T5 major
+T6	language_punctuation 803 808	"Если
+T7	choice-of-word 954 960	цифрой
+A4	Weight T7 major
+T8	ThemeRheme 964 1023	Был поднят вопрос об угрозе безопасности в связи со случаем
+A5	Weight T8 major
+T9	combinability 1174 1192	два раза пострадал
+A6	Weight T9 major
+T10	Good_job 1248 1289	на этот раз с безопасностью все в порядке
+T11	ungrammatical 1400 1410	, учитывая
+A7	Weight T11 major
+T12	ungrammatical 1335 1351	приходилось быть
+*	syntax T12 T11
+T13	distortion 1506 1525	27-летний спортсмен
+A8	Weight T13 critical
+T14	incomplete_structure 1646 1659	в прохождении
+#1	AnnotatorNotes T14	в возможность/безопасности прохождения
+A9	Weight T14 major
+T15	choice-of-word 1715 1727	быть быстрым
+A10	Weight T15 major
+T16	language_punctuation 1731 1742	"И все-таки
+T17	Good_job 1765 1833	мы оба довольны трассой и уверены, что достигнем высоких результатов
+T18	ThemeRheme 1981 1994	Ребека Уилсон
+A11	Weight T18 major
+T19	Good_job 2124 2153	Ребека очень многого добилась
+T20	language_punctuation 2145 2155	добилась",
+T21	content_reference 2238 2313	нахожусь в переходном периоде и хочу сделать что-то особенное на Кубке мира
+A12	Weight T21 minor
+T22	nonsense 2464 2482	укреплению доверия
+A13	Weight T22 major
+#2	AnnotatorNotes T22	кого к кому?
+T23	language_syntax 2544 2595	настолько высоких рейтингов, насколько это возможно
+A14	Weight T23 major
+T24	combinability 2656 2665	завоевала
+T25	combinability 2677 2704	число квалификационных мест
+*	lex_combinability T24 T25
+T26	choice-of-word 2656 2665	завоевала
+T27	content_reference 2800 2832	неофициального командного зачета
+A15	Weight T27 major
+#3	AnnotatorNotes T27	почему неофициального?

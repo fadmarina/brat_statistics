@@ -1,0 +1,46 @@
+T1	choice-of-word 348 372	чуть ранее в этом месяце
+A1	Technology T1 too_literal
+A2	Weight T1 major
+T2	choice-of-word 303 307	Пара
+T3	distortion 483 506	по конькобежному спорту
+A3	Weight T3 critical
+T4	language_punctuation 616 626	попотеть",
+T5	word_order 681 716	невероятно трудно спускаться быстро
+T6	choice-of-word 699 709	спускаться
+A4	Weight T6 major
+T7	ThemeRheme 934 968	Проблемы безопасности были подняты
+A5	Weight T7 major
+T8	capitals 1189 1195	Зимние
+T9	unclear 1290 1309	на сегодняшний день
+A6	Weight T9 major
+#1	AnnotatorNotes T9	в Сочи
+T10	logic 1512 1524	, потому что
+T11	Delete 1512 1524	, потому что
+T12	language_punctuation 1565 1571	всего"
+T13	choice-of-word 1806 1818	быть быстрым
+A7	Weight T13 major
+T14	language_lexical 181 187	Уолкер
+A8	Technology T14 proper_name
+A9	Weight T14 major
+T15	choice-of-word 1984 1992	оказался
+#2	AnnotatorNotes T15	казался
+T16	language_spelling 2090 2099	брейкмэна
+A10	Weight T16 minor
+T17	language_punctuation 2248 2258	добилась",
+T18	content_reference 2329 2383	я чувствую, что совершу что-то особенное на Кубке мира
+A11	Weight T18 minor
+T19	wrong_wordform 2331 2339	чувствую
+T20	unclear 2621 2648	во время приближающихся игр
+A12	Weight T20 major
+T21	content_pragmatics 2573 2585	намереваются
+A13	Weight T21 major
+T22	combinability 2666 2673	достичь
+T23	combinability 2697 2721	количества призовых мест
+*	lex_combinability T22 T23
+#3	AnnotatorNotes T22	получить
+T24	distortion 2708 2721	призовых мест
+A14	Weight T24 critical
+T25	distortion 2783 2947	Великобритания выдвигает две женские команды, входящие в топ-14, и две мужские команды, попавшие в двадцатку лучших по окончанию квалификационного периода 19 января
+A15	Weight T25 major
+T26	choice-of-word 3081 3089	в борьбе
+#4	AnnotatorNotes T26	тавтология

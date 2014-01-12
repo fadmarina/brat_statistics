@@ -1,0 +1,37 @@
+T1	capitals 107 120	Корреспондент
+A1	Technology T1 TL
+A2	Weight T1 minor
+T2	language_lexical 125 139	Olympic sports
+A3	Technology T2 TL
+A4	Weight T2 major
+T3	Good_job 460 514	у них уже не будет возможности испытать трассу еще раз
+T4	language_punctuation 700 711	постараться
+A5	Technology T4 TL
+A6	Weight T4 minor
+T6	distortion 1327 1356	дело совсем не в безопасности
+A8	Weight T6 critical
+T7	distortion 1593 1615	с нее сложно вылететь,
+A9	Weight T7 critical
+T8	logic 1812 1836	Вопрос только в скорости
+A10	Weight T8 major
+T9	omission 1812 1836	Вопрос только в скорости
+T10	Good_job 1956 2027	войка Полы Уокер и разгоняющей Джиллиан Кук была довольно перспективной
+T11	language_lexical 2125 2150	тормозящая Ребекка Уилсон
+A11	Weight T11 major
+T12	language_syntax 2046 2075	сезоне интенсивных тренировок
+A12	Weight T12 major
+T13	language_lexical 2136 2143	Ребекка
+A13	Technology T13 proper_name
+A14	Weight T13 minor
+T14	Good_job 2327 2363	на Кубке мира я была близка к победе
+T15	distortion 2486 2503	отборочного места
+A15	Weight T15 major
+T16	ungrammatical 2651 2718	И они действительно могут занять максимальное число отборочных мест
+T17	ungrammatical 2750 2793	две британские женские команды должны войти
+*	syntax T16 T17
+A16	Weight T16 major
+A17	Weight T17 major
+T18	choice-of-word 2853 2885	отборочного олимпийского турнира
+A18	Weight T18 major
+T5	choice-of-word 1222 1245	Санного центра Уистлера
+A7	Weight T5 minor

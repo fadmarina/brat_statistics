@@ -1,0 +1,72 @@
+T1	Delete 78 84	автор:
+T2	choice-of-word 169 179	признались
+A1	Technology T2 TL
+A2	Weight T2 minor
+T3	wrong_wordform 316 321	заезд
+A3	Technology T3 TL
+A4	Weight T3 major
+T4	capitals 364 370	Зимних
+A5	Technology T4 proper_name
+A6	Weight T4 minor
+T5	distortion 422 444	завершила свое участие
+A7	Technology T5 background_info
+A8	Weight T5 major
+T6	language_punctuation 542 554	повозиться",
+A9	Technology T6 TL
+A10	Weight T6 minor
+T7	language_spelling 555 563	делиться
+A11	Technology T7 TL
+A12	Weight T7 minor
+T8	omission 623 630	отрезка
+A13	Technology T8 too_free
+A14	Weight T8 major
+T9	distortion 1123 1165	безопасность на этот раз не самое главное.
+A15	Technology T9 SL
+A16	Weight T9 critical
+T10	distortion 1298 1363	не было никакой возможности пройти трассу по идеальной траектории
+A17	Technology T10 SL
+A18	Weight T10 critical
+T11	language_lexical 1438 1444	Уолкер
+A19	Technology T11 inconsistency
+A20	Weight T11 major
+T12	typo 1438 1447	Уолкер(27
+A21	Weight T12 minor
+T13	Delete 1512 1520	для езды
+T14	nonsense 1573 1647	пройдя которые ты удивлялся, так как это была просто попытка быть быстрее.
+A22	Technology T14 SL
+A23	Weight T14 critical
+T15	language_lexical 1880 1887	Ребекка
+A24	Technology T15 proper_name
+A25	Weight T15 minor
+T16	ThemeRheme 1880 1936	Ребекка Уилсон присоединилась к ведущей женской "двойке"
+A26	Technology T16 TL
+A27	Weight T16 major
+T17	choice-of-word 2002 2016	фантастической
+A28	Technology T17 TL
+A29	Weight T17 minor
+T18	language_punctuation 2064 2072	успеха",
+A30	Technology T18 TL
+A31	Weight T18 minor
+T19	distortion 2149 2200	что произойдет что- то замечательное  на Кубке Мира
+A32	Technology T19 SL
+A33	Weight T19 major
+T20	language_punctuation 2196 2200	Мира
+A34	Technology T20 TL
+A35	Weight T20 major
+T21	unclear 2303 2359	нахождение на пьедестале способствует укреплению доверия
+A36	Technology T21 SL
+A37	Weight T21 major
+T22	capitals 2365 2375	Британской
+A38	Technology T22 TL
+A39	Weight T22 major
+T23	choice-of-word 2531 2552	квалификационных мест
+A40	Technology T23 TL
+A41	Weight T23 major
+T25	logic 2574 2611	команда может объективно рассчитывать
+A43	Weight T25 major
+T24	unclear 2646 2663	к концу 19 января
+A42	Technology T24 TL
+A44	Weight T24 major
+T26	logic 2761 2779	Не забывая об этом
+A45	Technology T26 TL
+A46	Weight T26 minor

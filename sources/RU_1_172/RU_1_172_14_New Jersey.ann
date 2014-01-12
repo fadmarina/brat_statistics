@@ -1,0 +1,48 @@
+T1	content_reference 150 156	в Сочи
+A1	Weight T1 minor
+T2	content_cohesion 585 601	по бобслею, паре
+A2	Weight T2 minor
+T3	Delete 656 684	, где и пройдут соревнования
+T4	incomplete_structure 779 789	поделилась
+A3	Weight T4 minor
+#1	AnnotatorNotes T4	поделилась впечатлениями?
+T5	language_punctuation 766 778	повозиться",
+#2	AnnotatorNotes T5	http://www.gramota.ru/spravka/rules/?rub=znapr
+T6	content_reference 903 927	непростых участка трассы
+A4	Weight T6 minor
+T7	content_reference 828 851	набрать нужную скорость
+A5	Weight T7 major
+#3	AnnotatorNotes T7	неточно, а потому непонятно. "нужную" для чего?
+T8	Good_job 1104 1182	О проблеме безопасности спортсменов во время соревнований заговорили в связи с
+T9	Good_job 1451 1505	на этот раз безопасности спортсменов ничто не угрожает
+T10	combinability 1596 1624	достигается большая скорость
+A6	Weight T10 minor
+#4	AnnotatorNotes T10	развивается?
+T11	choice-of-word 1681 1700	слететь с дистанции
+A7	Weight T11 minor
+#5	AnnotatorNotes T11	вылететь с трека?
+T12	unclear 1647 1661	на этой трассе
+A8	Weight T12 major
+#6	AnnotatorNotes T12	непонятно на которой из двух, обсуждавшихся выше
+T13	nonsense 1626 1755	И дело не в том, что на этой трассе высока вероятность слететь с дистанции, просто нужно было быть осторожным, чтобы не разбиться
+A9	Weight T13 major
+#7	AnnotatorNotes T13	внутренне противоречивое предложение. Проблема не в том, что вылететь с трека, а в том что разобьешься?
+T14	language_spelling 1806 1814	довольна
+T15	word_order 2210 2226	в прошлом сезоне
+A10	Weight T15 minor
+T16	ThemeRheme 2267 2280	Ребека Уилсон
+A11	Weight T16 minor
+T17	choice-of-word 2338 2372	команде по бобслею из двух человек
+A12	Weight T17 major
+T18	Good_job 2438 2487	Ребека сумела добиться просто грандиозных успехов
+T19	Good_job 2586 2636	у меня почти получилось сделать что-то невероятное
+T20	language_lexical 2891 2901	завоевание
+A13	Weight T20 minor
+#8	AnnotatorNotes T20	тавтология
+T21	Delete 2754 2768	как завоевание
+T22	distortion 3054 3088	а их всего две в каждой дисциплине
+A14	Weight T22 major
+T23	Good_job 2975 3052	получить максимально возможное число олимпийских квалификационных квот в Сочи
+T24	unclear 3401 3426	в последнем по значимости
+A15	Weight T24 major
+T25	capitals 472 478	Зимних

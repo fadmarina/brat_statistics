@@ -1,0 +1,107 @@
+T1	language_spelling 138 146	Би-би-си
+A1	Technology T1 TL
+A2	Weight T1 minor
+T2	language_syntax 159 173	бобслей пилоты
+A3	Technology T2 too_literal
+A4	Weight T2 major
+T3	language_syntax 221 244	трасса Сочи Олимпийский
+A5	Technology T3 too_literal
+A6	Weight T3 critical
+T4	ungrammatical 280 295	чем в Ванкувере
+A7	Technology T4 TL
+A8	Weight T4 minor
+T5	logic 402 405	ним
+A9	Weight T5 major
+T6	ungrammatical 406 413	допущен
+A10	Technology T6 TL
+A11	Weight T6 minor
+T7	ungrammatical 508 515	Калгари
+A12	Technology T7 TL
+A13	Weight T7 major
+T8	ThemeRheme 516 530	в эти выходные
+A14	Technology T8 too_literal
+A15	Weight T8 minor
+T9	distortion 564 571	поладил
+A16	Technology T9 background_info
+A17	Weight T9 major
+T10	language_syntax 630 644	Би-би-си спорт
+A18	Technology T10 too_literal
+A19	Weight T10 minor
+T11	language_syntax 648 651	Это
+A20	Technology T11 too_literal
+A21	Weight T11 major
+T12	choice-of-word 564 571	поладил
+A22	Weight T12 minor
+T13	choice-of-word 724 758	которые могут быть сложной задачей
+A23	Technology T13 TL
+A24	Weight T13 major
+T14	combinability 704 722	подъемных отрезков
+A25	Technology T14 too_literal
+A26	Weight T14 major
+T15	wrong_wordform 897 910	катастрофично
+A27	Technology T15 TL
+A28	Weight T15 minor
+T16	language_syntax 913 935	Вопросы о безопасности
+A29	Technology T16 TL
+A30	Weight T16 minor
+T17	unclear 949 971	касательно на Ванкувер
+A31	Technology T17 TL
+A32	Weight T17 major
+T18	distortion 1158 1171	разбивавшаяся
+A33	Technology T18 background_info
+A34	Weight T18 major
+T19	nonsense 1276 1304	Разница с трассой в Уистлере
+A35	Technology T19 SL
+A36	Weight T19 critical
+T20	choice-of-word 1402 1427	е было много возможностей
+A37	Technology T20 TL
+A38	Weight T20 major
+T21	nonsense 1436 1458	быть с гоночной трассе
+A39	Weight T21 critical
+T22	unclear 1472 1508	там люди столкнулся с неприятностями
+A40	Weight T22 critical
+T23	choice-of-word 1533 1539	27 лет
+A41	Technology T23 too_literal
+A42	Weight T23 minor
+T24	choice-of-word 1652 1682	от которых появлялось сомнение
+A43	Technology T24 TL
+A44	Weight T24 major
+T25	language_punctuation 1699 1707	пройти -
+A45	Technology T25 TL
+A46	Weight T25 minor
+T26	incomplete_structure 1765 1769	Хотя
+A47	Technology T26 TL
+A48	Weight T26 minor
+T27	unclear 1814 1829	хорошо о заезде
+A49	Weight T27 major
+T28	choice-of-word 1901 1915	Сотрудничество
+A50	Technology T28 too_literal
+A51	Weight T28 major
+T29	wrong_wordform 1937 1943	подало
+A52	Weight T29 minor
+T30	nonsense 1979 2015	интенсивного тестирования в обучении
+A53	Technology T30 too_literal
+A54	Weight T30 critical
+T31	ThemeRheme 2041 2055	Ребекка Уилсон
+A55	Weight T31 critical
+T32	choice-of-word 2165 2174	спортсмен
+A56	Technology T32 background_info
+A57	Weight T32 minor
+T33	combinability 2233 2253	огромных результатов
+A58	Technology T33 too_literal
+A59	Weight T33 minor
+T34	language_punctuation 2257 2263	сказал
+A60	Technology T34 TL
+A61	Weight T34 minor
+T35	choice-of-word 2293 2310	является блестяще
+A62	Technology T35 too_literal
+A63	Weight T35 major
+T36	choice-of-word 2338 2356	был на пороге того
+A64	Technology T36 too_literal
+A65	Weight T36 major
+T37	omission 2444 2453	физически
+A66	Weight T37 critical
+T38	Content 2654 2660	месяцы
+#1	AnnotatorNotes T38	Все предложение - чушь собачья!!!
+T39	Content 0 10	﻿Сочинская
+#2	AnnotatorNotes T39	Отвратительный перевод.

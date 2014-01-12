@@ -1,0 +1,83 @@
+T1	unclear 104 154	Nick Hope | Источник BBC Olympic sports reporter.
+A1	Technology T1 too_literal
+A2	Weight T1 major
+T2	typo 324 329	Росси
+A3	Technology T2 TL
+A4	Weight T2 minor
+T3	unclear 104 154	Nick Hope | Источник BBC Olympic sports reporter.
+A5	Technology T3 TL
+A6	Weight T3 minor
+T4	capitals 394 405	олимпийских
+A7	Technology T4 proper_name
+A8	Weight T4 major
+T5	unclear 104 153	Nick Hope | Источник BBC Olympic sports reporter.
+A9	Technology T5 TL
+A10	Weight T5 major
+T6	distortion 527 537	разобрался
+A11	Technology T6 background_info
+A12	Weight T6 major
+T7	language_punctuation 723 729	ошибку
+A13	Technology T7 TL
+A14	Weight T7 minor
+T8	choice-of-word 886 893	смертью
+A15	Technology T8 TL
+A16	Weight T8 minor
+T9	language_punctuation 923 937	Кумариташвили,
+A17	Technology T9 TL
+A18	Weight T9 minor
+T10	logic 938 1010	уровень безопасности трассы стал значительно выше, по сравнению с треком
+A19	Technology T10 TL
+A20	Weight T10 major
+T11	capitals 1055 1064	Канадской
+A21	Technology T11 TL
+A22	Weight T11 major
+T12	Good_job 1080 1193	Джексон уверен в безопасности трассы, несмотря на то, что он перевернулся дважды на последних олимпийских играх.
+T13	distortion 1195 1288	В отличие от трека в Уистлере здесь нужно бытьпредельно точным в зонах наибольшего ускорения.
+A23	Technology T13 SL
+A24	Weight T13 critical
+T14	language_lexical 1413 1419	Уолкер
+A25	Technology T14 inconsistency
+A26	Weight T14 minor
+T15	ungrammatical 1289 1294	Также
+A27	Technology T15 TL
+A28	Weight T15 major
+T16	language_punctuation 1319 1332	перевернуться
+A29	Technology T16 TL
+A30	Weight T16 minor
+T17	nonsense 1333 1391	намного меньше,потому что именно там и начинаются проблемы
+A31	Technology T17 TL
+A32	Weight T17 critical
+T18	language_punctuation 1578 1585	участки
+A33	Technology T18 TL
+A34	Weight T18 minor
+T19	preposition 1586 1595	в которых
+A35	Technology T19 TL
+A36	Weight T19 minor
+T20	Good_job 1482 1568	как раз тот случай, где ты пытаешься показать только скорость, в отличие от Ванкувера,
+T21	ThemeRheme 1834 1864	Ребека Уилсон стала брейкменом
+A37	Technology T21 TL
+A38	Weight T21 major
+T22	unclear 1900 1952	после интенсивных попыток тренироваться вместе летом
+A39	Technology T22 TL
+A40	Weight T22 major
+T23	language_lexical 1956 1963	Джилиан
+A41	Technology T23 TL
+A42	Weight T23 minor
+T24	distortion 2202 2215	стала сильнее
+A43	Technology T24 SL
+A44	Weight T24 minor
+T25	distortion 2256 2310	Поскольку призовые места всегда прибавляли уверенности
+A45	Technology T25 SL
+A46	Weight T25 major
+T26	ungrammatical 2363 2382	являются завоевание
+A47	Technology T26 TL
+A48	Weight T26 major
+T27	logic 2503 2535	на которые они могут рассчитыват
+A49	Technology T27 TL
+A50	Weight T27 major
+T28	choice-of-word 2606 2641	быть в четырнадцати лучших командах
+A51	Technology T28 TL
+A52	Weight T28 major
+T29	language_lexical 2825 2848	Американском чемпионате
+A53	Technology T29 proper_name
+A54	Weight T29 major

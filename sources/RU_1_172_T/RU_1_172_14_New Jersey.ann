@@ -1,0 +1,44 @@
+T1	choice-of-word 216 226	признались
+A1	Technology T1 TL
+A2	Weight T1 minor
+T3	capitals 472 478	Зимних
+A5	Technology T3 TL
+A6	Weight T3 minor
+T4	language_punctuation 766 776	повозиться
+A7	Technology T4 TL
+A8	Weight T4 minor
+T5	distortion 150 156	в Сочи
+A9	Weight T5 minor
+T6	content_cohesion 853 856	Вся
+A10	Weight T6 minor
+T7	omission 913 920	участка
+A11	Weight T7 major
+T8	Good_job 1104 1161	О проблеме безопасности спортсменов во время соревнований
+T9	distortion 1626 1700	И дело не в том, что на этой трассе высока вероятность слететь с дистанции
+A12	Weight T9 critical
+T10	typo 1806 1814	довольна
+T11	language_punctuation 1991 1995	?"",
+A13	Technology T11 TL
+A14	Weight T11 minor
+A15	Technology T10 TL
+A16	Weight T10 minor
+T12	language_punctuation 2480 2487	успехов
+A17	Technology T12 TL
+A18	Weight T12 minor
+T13	language_syntax 2339 2372	оманде по бобслею из двух человек
+A19	Technology T13 TL
+A20	Weight T13 major
+T14	ThemeRheme 2267 2280	Ребека Уилсон
+A21	Technology T14 TL
+A22	Weight T14 minor
+T15	Good_job 2710 2740	позволит довести дело до конца
+T16	wrong_wordform 2758 2768	завоевание
+A23	Technology T16 TL
+A24	Weight T16 minor
+T17	distortion 3135 3139	были
+A25	Weight T17 minor
+T18	Good_job 2984 3045	максимально возможное число олимпийских квалификационных квот
+T19	content_reference 3403 3426	последнем по значимости
+A26	Weight T19 minor
+T20	Content 0 12	﻿Олимпийская
+#1	AnnotatorNotes T20	Пока это лучшее, что прочитано. Приличный русский.

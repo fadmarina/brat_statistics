@@ -1,0 +1,22 @@
+T1	choice-of-word 340 358	ранее этим месяцем
+A1	Technology T1 too_literal
+T2	language_punctuation 643 656	постараться",
+T3	unclear 787 839	невероятно тяжело ехать по треку на высокой скорости
+A2	Weight T3 minor
+T4	content_reference 1141 1213	по поводу безопасности Санного центра, который находится в горах Уистлер
+A3	Weight T4 major
+#1	AnnotatorNotes T4	да почему только относительно безопасности Уистлера? Вообще активно заговорили о безопасности бобслейных трасс, и в Сочи эти разговоры учли! Отчасти об этом и статья!
+T5	language_punctuation 1617 1623	беду",
+T6	language_punctuation 695 705	"Трудности
+T7	language_punctuation 843 852	"Совершая
+T8	language_punctuation 1842 1849	лучше",
+T9	word_order 2051 2067	в прошлом сезоне
+T10	language_spelling 2174 2184	брейкманом
+T11	content_reference 2410 2448	в грядущем соревновании Мирового кубка
+A4	Weight T11 minor
+T12	capitals 2631 2641	Британской
+T13	Delete 3045 3060	из разных стран
+T14	choice-of-word 3198 3226	дополнительные 2 и 3 команды
+A5	Weight T14 major
+T15	Good_job 3227 3248	начали борьбу за очки
+T16	language_punctuation 2324 2330	году",

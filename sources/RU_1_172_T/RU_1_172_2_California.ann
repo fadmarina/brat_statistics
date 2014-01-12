@@ -1,0 +1,65 @@
+T1	Good_job 128 138	канал BBC
+T2	language_lexical 181 187	Уолкер
+A1	Technology T2 proper_name
+A2	Weight T2 major
+T3	Good_job 128 137	канал BBC
+T4	unclear 308 338	завершила тренировочные спуски
+A3	Technology T4 TL
+A4	Weight T4 major
+T5	language_syntax 407 425	началом зимних игр
+A5	Technology T5 TL
+A6	Weight T5 minor
+T6	capitals 415 421	зимних
+A7	Technology T6 proper_name
+A8	Weight T6 minor
+T7	nonsense 484 506	о конькобежному спорту
+A9	Technology T7 SL
+A10	Weight T7 critical
+T8	language_punctuation 616 625	попотеть"
+A11	Technology T8 TL
+A12	Weight T8 minor
+T9	logic 699 762	спускаться быстро из-за трёх подъёмов, которые усложняют спуск.
+A13	Technology T9 TL
+A14	Weight T9 major
+T10	choice-of-word 979 989	инцидентом
+A15	Technology T10 TL
+A16	Weight T10 minor
+T11	language_lexical 1070 1077	Уислера
+A17	Technology T11 proper_name
+A18	Weight T11 minor
+T12	language_syntax 1176 1200	за последние Зимние игры
+A19	Technology T12 TL
+A20	Weight T12 minor
+T13	language_punctuation 1565 1570	всего
+A21	Technology T13 TL
+A22	Weight T13 minor
+T14	ungrammatical 1593 1600	27 лет,
+A23	Technology T14 TL
+A24	Weight T14 major
+T15	wrong_wordform 1984 1992	оказался
+A25	Technology T15 TL
+A26	Weight T15 major
+T16	language_punctuation 2077 2082	летом
+A27	Technology T16 TL
+A28	Weight T16 major
+T17	choice-of-word 2159 2173	фантастическая
+A29	Technology T17 TL
+A30	Weight T17 minor
+T18	language_punctuation 2248 2256	добилась
+A31	Technology T18 TL
+A32	Weight T18 minor
+T19	distortion 2329 2369	я чувствую, что совершу что-то особенное
+A33	Technology T19 SL
+A34	Weight T19 major
+T20	distortion 2596 2620	как можно больше медалей
+A35	Technology T20 SL
+A36	Weight T20 critical
+T21	distortion 2798 2827	выдвигает две женские команды
+A37	Technology T21 SL
+A38	Weight T21 major
+T22	language_punctuation 2950 2971	Тем временем напомним
+A39	Technology T22 TL
+A40	Weight T22 major
+T23	choice-of-word 3093 3112	чуть менее значимый
+A41	Technology T23 TL
+A42	Weight T23 major

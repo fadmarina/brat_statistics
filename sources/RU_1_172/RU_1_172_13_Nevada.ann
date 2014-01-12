@@ -1,0 +1,61 @@
+T1	content_reference 34 60	безопасность превыше всего
+A1	Weight T1 major
+T2	omission 78 86	Ник Хоуп
+A2	Weight T2 major
+T3	choice-of-word 99 116	бобслеисты-пилоты
+A3	Weight T3 minor
+#1	AnnotatorNotes T3	лучше через запятую
+T4	language_lexical 137 143	Уолкер
+A4	Weight T4 minor
+A5	Technology T4 proper_name
+T5	content_reference 160 228	столкнулись с гораздо большими проблемами на санно-бобслейной трассе
+A6	Weight T5 major
+#2	AnnotatorNotes T5	вводит читателя в заблуждение, особенно вкупе с вашим заголовком. 
+T6	distortion 266 281	Влюбленная пара
+A7	Weight T6 major
+#3	AnnotatorNotes T6	этого в оригинале нет, хотя и правда. Не думаю, что стоит вводить в текст подобную информацию. 
+T7	combinability 440 469	олимпийского кубкового сезона
+A8	Weight T7 major
+T9	logic 800 828	что в бобслее особенно важно
+A10	Weight T9 major
+T10	content_reference 832 858	Меры безопасности повысили
+A11	Weight T10 major
+#5	AnnotatorNotes T10	опять же правильно, но не то, что в оригинале
+T11	ThemeRheme 832 858	Меры безопасности повысили
+T12	language_punctuation 1235 1244	Ванкувере
+T13	distortion 1267 1319	не стоит зацикливаться на повышении мер безопасности
+A12	Weight T13 critical
+T14	unclear 1682 1713	Все дело лишь в скорости трассы
+A13	Weight T14 major
+T15	distortion 1651 1680	хоть как-нибудь их преодолеть
+A14	Weight T15 major
+#6	AnnotatorNotes T15	если уж спортсмены и молятся, то о том, чтобы не перевернуться
+T16	distortion 1807 1846	отлично себя чувствуем после тренировок
+A15	Technology T16 SL
+A16	Weight T16 major
+T17	Delete 1969 1972	игр
+T18	word_order 1952 1968	в прошлом сезоне
+T19	choice-of-word 2060 2072	тормозильщик
+A17	Weight T19 critical
+T20	language_lexical 2226 2233	Ребекки
+A18	Technology T20 proper_name
+A19	Weight T20 minor
+T21	content_reference 2181 2203	я не могла не отметить
+A20	Weight T21 major
+T22	Good_job 2280 2369	я уже на Кубке мире чувствовала что в моей спортивной карьере наступает переломный момент
+T23	choice-of-word 2408 2432	физическое превосходство
+A21	Weight T23 minor
+#7	AnnotatorNotes T23	прекрасная физическая форма?
+T24	choice-of-word 2433 2454	для меня лишь на руку
+#8	AnnotatorNotes T24	"мне на руку", и у этого фразеологизма неуместные тут коннотации. См. http://phraseology.academic.ru/4832/%D0%98%D0%B3%D1%80%D0%B0%D1%82%D1%8C_%D0%BD%D0%B0_%D1%80%D1%83%D0%BA%D1%83
+T25	content_reference 2458 2582	Британская команда по бобслею рассчитывает на призовые места и обещает показать наивысшие результаты в будущих соревнованиях
+A22	Weight T25 major
+T26	distortion 2632 2645	призовых мест
+A23	Weight T26 major
+T27	preposition 2646 2648	по
+T28	preposition 2685 2687	на
+T29	unclear 2707 2906	Великобритания должна будет отправить после отборочных состязаний две женские команды занявшие на Кубке мире места от четырнадцатого и выше, и две мужские команды, занявшие от двадцатого места и выше
+A24	Weight T29 major
+#9	AnnotatorNotes T29	куда отправить? Почему должна?
+T30	distortion 3005 3029	первых этапов Кубка мира
+A25	Weight T30 major

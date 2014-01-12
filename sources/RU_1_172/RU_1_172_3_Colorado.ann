@@ -1,0 +1,62 @@
+T1	choice-of-word 273 281	"двойка"
+A1	Weight T1 major
+T2	distortion 273 281	"двойка"
+A2	Weight T2 major
+T3	wrong_wordform 292 321	финальный тренировочный заезд
+T4	choice-of-word 292 321	финальный тренировочный заезд
+A3	Weight T4 major
+T5	content_reference 333 360	уже не сможет тренироваться
+A4	Technology T5 background_info
+T6	capitals 364 386	Зимних Олимпийских Игр
+A5	Technology T6 proper_name
+A6	Weight T6 major
+T7	distortion 422 468	завершила свое участие в Кубке  мира 2013-2014
+A7	Weight T7 critical
+T8	language_spelling 555 563	делиться
+T9	language_punctuation 542 554	повозиться",
+T10	content_reference 664 672	набирать
+A8	Weight T10 major
+#1	AnnotatorNotes T10	не потерять скорость
+T11	choice-of-word 847 863	катастрофическим
+#2	AnnotatorNotes T11	катастрофичным
+T12	ThemeRheme 867 897	Вопрос о безопасности на треке
+A9	Weight T12 major
+T13	Content 1123 1164	безопасность на этот раз не самое главное
+A10	Weight T13 major
+#3	AnnotatorNotes T13	для него и в прошлый раз безопасность была не самым главным, ведь он дважды был в аварии, значит он пренебрег соображениями безопасности в погоне за результатом!
+T14	distortion 1298 1363	не было никакой возможности пройти трассу по идеальной траектории
+A11	Weight T14 major
+T15	language_spelling 1494 1504	достаточна
+T16	choice-of-word 1505 1520	легкая для езды
+A12	Weight T16 major
+T17	nonsense 1602 1646	так как это была просто попытка быть быстрее
+A13	Weight T17 critical
+T18	choice-of-word 1676 1700	мы оба отлично настроены
+A14	Weight T18 major
+T19	word_order 1804 1820	в прошлом сезоне
+T20	language_lexical 1880 1887	Ребекка
+A15	Technology T20 proper_name
+T21	choice-of-word 1895 1909	присоединилась
+A16	Weight T21 major
+T22	language_punctuation 2064 2072	успеха",
+T23	capitals 2196 2200	Мира
+T24	language_punctuation 2190 2200	Кубке Мира
+T25	logic 2267 2284	в достижении цели
+A17	Weight T25 major
+#4	AnnotatorNotes T25	какой цели?
+T26	choice-of-word 2203 2210	так как
+#5	AnnotatorNotes T26	тавтология
+T27	combinability 2299 2327	как нахождение на пьедестале
+T28	unclear 2341 2359	укреплению доверия
+A18	Weight T28 major
+#6	AnnotatorNotes T28	к кому?
+T29	capitals 2365 2375	Британской
+T30	content_cohesion 2566 2581	в Сочи, команда
+A19	Weight T30 major
+#7	AnnotatorNotes T30	а команда может объективно рассчитывать на...
+T31	logic 2483 2611	Для того чтобы получить максимальное количество квалификационных мест на Олимпиаде в Сочи, команда может объективно рассчитывать
+A20	Weight T31 critical
+#8	AnnotatorNotes T31	для того чтобы получить..., команда может рассчитывать...?? и непонятно как это связано в текстом после двоеточия
+T32	distortion 2819 2849	американского этапа Кубка мира
+A21	Weight T32 major
+#9	AnnotatorNotes T32	Кубок Америки - это турнир, на входящий в этапы Кубка мира.

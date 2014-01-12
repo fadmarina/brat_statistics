@@ -1,0 +1,57 @@
+T1	content_reference 0 57	﻿Пола Уокер: "Бобслейная трасса в Сочи невероятно сложна"
+#1	AnnotatorNotes T1	неточно. Неплохо! Проблемы с оформлением прямой речи, несколько удачных решений, есть несколько мест, вызывающих недоумение читателя. 
+T2	omission 90 107	корреспондент BBC
+T3	Good_job 109 146	Лидеры  британской сборной по бобслею
+T4	language_punctuation 382 388	трассе
+T5	preposition 369 371	по
+T6	language_spelling 640 641	П
+T7	language_punctuation 624 636	побороться".
+T8	language_punctuation 669 675	"Из-за
+T9	language_punctuation 751 758	"Обычно
+T10	combinability 917 934	трагичного случая
+A1	Weight T1 major
+A2	Weight T2 minor
+A3	Weight T5 minor
+A4	Weight T4 major
+A5	Weight T7 minor
+A6	Weight T6 minor
+A7	Weight T8 minor
+A8	Weight T9 minor
+A9	Weight T10 minor
+T11	typo 1243 1252	относится
+T12	combinability 1168 1177	Олимпиаде
+A10	Weight T12 minor
+#2	AnnotatorNotes T12	трассе
+T13	combinability 1453 1488	понести за собой плохие последствия
+A11	Weight T13 major
+T14	Good_job 1364 1441	высота ледяного желоба была недостаточной, и спортсмен мог вылететь за трассу
+T15	language_punctuation 1477 1489	последствия"
+T16	language_lexical 1512 1518	Уолкер
+A12	Technology T16 inconsistency
+T17	wrong_wordform 1519 1529	продолжила
+T18	wrong_wordform 1755 1765	тренировки
+T19	unclear 1766 1784	мы всё же довольны
+A13	Weight T19 major
+A14	Weight T16 major
+A15	Weight T17 minor
+A16	Weight T18 minor
+T20	Good_job 1930 2010	по итогам летнего тестирования тормозящей первого женского  экипажа была выбрана
+T21	language_spelling 2157 2164	Заявила
+T22	language_punctuation 2142 2153	результаты"
+T23	language_punctuation 2165 2172	Уолкер.
+T24	omission 2175 2287	Смена напарницы не может меня не радовать, т.к. я знаю, что она сильнее, и это поможет нам в прохождении трассы.
+T25	Good_job 2175 2246	Смена напарницы не может меня не радовать, т.к. я знаю, что она сильнее
+T26	unclear 2289 2388	В то время как победители и призёры сборной Великобритании подтверждают превосходство  своей страны
+T27	language_syntax 2407 2457	столько рейтинговых очков, сколько только возможно
+A17	Technology T27 too_literal
+A18	Weight T27 minor
+A19	Weight T24 minor
+A20	Weight T26 major
+A21	Weight T22 minor
+A22	Weight T23 minor
+A23	Weight T21 minor
+T28	preposition 2549 2551	на
+T29	unclear 2576 2594	, их всего четыре,
+A24	Weight T29 major
+T30	language_punctuation 2723 2730	сборные
+T31	capitals 2815 2820	кубке

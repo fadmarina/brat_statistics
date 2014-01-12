@@ -1,0 +1,64 @@
+T1	wrong_wordform 417 423	раньше
+A1	Technology T1 TL
+A2	Weight T1 minor
+T2	language_punctuation 768 779	постараться
+A3	Technology T2 TL
+A4	Weight T2 minor
+T3	omission 880 888	отрезков
+A5	Technology T3 too_free
+A6	Weight T3 major
+T4	combinability 1176 1202	улучшении мер безопасности
+A7	Technology T4 TL
+A8	Weight T4 minor
+T5	distortion 1439 1466	азница с трассой в Уистлере
+A9	Technology T5 SL
+A10	Weight T5 critical
+T6	language_syntax 1506 1532	ероятность вылета с трассы
+A11	Technology T6 TL
+A12	Weight T6 minor
+T7	unclear 1616 1684	которой нельзя пренебрегать, иначе спортсмен рискует получить травмы
+A13	Technology T7 SL
+A14	Weight T7 major
+T8	content_reference 1750 1778	на ней нет сложных поворотов
+A15	Technology T8 too_free
+A16	Weight T8 major
+T9	language_punctuation 1832 1840	скорость
+A17	Technology T9 TL
+A18	Weight T9 minor
+T10	language_spelling 1856 1866	-ми летняя
+A19	Technology T10 TL
+A20	Weight T10 minor
+T11	language_syntax 1891 1935	к концу тренировочных заездов нам понравился
+A21	Technology T11 TL
+A22	Weight T11 major
+T12	language_spelling 1948 1956	уверенны
+A23	Technology T12 TL
+A24	Weight T12 minor
+T13	language_lexical 2251 2261	брейкмэном
+A25	Technology T13 inconsistency
+A26	Weight T13 minor
+T14	language_punctuation 2438 2443	себя"
+A27	Technology T14 TL
+A28	Weight T14 minor
+T15	distortion 2543 2590	собиралась поставить перед собой высокую задачу
+A29	Technology T15 TL
+A30	Weight T15 minor
+T16	choice-of-word 2639 2673	физическое превосходство надо мной
+A31	Technology T16 TL
+A32	Weight T16 major
+T17	choice-of-word 2772 2786	первостепенным
+A33	Technology T17 TL
+A34	Weight T17 minor
+T18	language_syntax 2828 2847	является достижение
+A35	Technology T18 TL
+A36	Weight T18 major
+T19	Delete 3005 3026	что для них выполнимо
+T20	choice-of-word 3070 3095	вухместный женский экипаж
+A37	Technology T20 TL
+A38	Weight T20 major
+T21	unclear 3332 3447	начали свой сезон с небольшого количества рейтинговых очков в последнем по значимости соревновании - Кубке Америки.
+A39	Technology T21 TL
+A40	Weight T21 critical
+T22	Good_job 2901 3003	Для того чтобы получить максимальное количество квот  в квалификационный период зимних Олимпийских игр
+T23	Good_job 3285 3331	претенденты на вторую и третью командные квоты
+T24	Good_job 578 680	в соревнованиях Кубка мира по бобслею в канадском городе Калгари, которые открывают олимпийский сезон.

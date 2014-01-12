@@ -1,0 +1,55 @@
+T1	capitals 35 45	Олимпийска
+T2	ThemeRheme 0 34	﻿Безопасная, но технически сложная
+A1	Weight T2 major
+T3	language_lexical 134 137	Ноп
+A2	Technology T3 proper_name
+A3	Weight T3 major
+T4	language_lexical 191 203	Паула Уолкер
+A4	Technology T4 proper_name
+T5	language_spelling 553 556	на1
+#1	AnnotatorNotes T5	все цифры, состоящие из одного разряда (1-9) принято писать прописью
+T6	unclear 593 607	сезон открытия
+A5	Weight T6 major
+T7	language_syntax 593 607	сезон открытия
+T8	language_lexical 644 653	ВВС Спорт
+A6	Technology T8 proper_name
+A7	Weight T8 major
+T9	language_syntax 709 731	с этой (трасса в Сочи)
+T11	choice-of-word 775 787	быть быстрым
+A9	Weight T11 major
+T12	Good_job 823 845	которые гасят скорость
+T13	content_reference 1155 1282	организаторы решили внести некоторые коррективы, чтобы максимально обезопасить соревнующихся спортсменов от подобных инцидентов
+A10	Technology T13 too_free
+A11	Weight T13 major
+T14	language_punctuation 1756 1760	Если
+T15	language_spelling 1761 1780	говорить на чистоту
+A12	Weight T15 major
+T16	Delete 1823 1838	для прохождения
+T17	logic 1874 1996	где были такие участки трека, при прохождении которых можно было улучшить свой результат, за счёт увеличения скорости боба
+T18	content_reference 1874 1996	где были такие участки трека, при прохождении которых можно было улучшить свой результат, за счёт увеличения скорости боба
+A13	Weight T18 major
+T19	language_punctuation 2000 2003	"Мы
+T20	Good_job 2154 2179	По итогам прошлого сезона
+T21	Good_job 2303 2410	в основной женский двухместный экипаж в качестве брейкмана (задний разгоняющий) была выбрана Ребекка Уилсон
+T22	choice-of-word 2396 2403	Ребекка
+A14	Technology T22 proper_name
+T23	wrong_wordform 2734 2750	ещё более лучшие
+A15	Weight T23 critical
+T24	content_reference 2662 2688	мы выложились на все 100 %
+A16	Weight T24 major
+T25	language_punctuation 2647 2650	"На
+T26	content_reference 2804 2842	Ребеккой, которая превосходит Джиллиан
+A17	Weight T26 major
+#3	AnnotatorNotes T26	СМЕЛО!
+T27	content_reference 2911 2920	престижно
+A18	Weight T27 major
+T28	combinability 3063 3073	достижения
+A19	Weight T28 major
+T29	combinability 3088 3126	количества олимпийских отборочных мест
+*	lex_combinability T28 T29
+T30	logic 3278 3283	стран
+A20	Weight T30 minor
+T31	capitals 2657 2661	Мира
+A21	Technology T31 inconsistency
+T32	capitals 3436 3440	Мира
+A22	Technology T32 proper_name

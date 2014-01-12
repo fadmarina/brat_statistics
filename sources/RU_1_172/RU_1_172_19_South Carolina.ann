@@ -1,0 +1,55 @@
+T1	content_reference 0 7	﻿Трассы
+A1	Weight T1 major
+T2	omission 71 84	Корреспондент
+A2	Weight T2 minor
+T3	language_spelling 434 444	состояться
+T4	capitals 447 454	Феврале
+T5	language_syntax 358 370	России, куда
+A3	Weight T5 major
+T6	Good_job 508 531	в стартовом этапе кубка
+T7	capitals 526 531	кубка
+A4	Weight T7 minor
+T8	language_punctuation 650 658	голову".
+T9	language_punctuation 659 678	- Прокомментировала
+T10	language_punctuation 699 712	- "Невероятно
+A5	Technology T10 too_literal
+T11	unclear 776 798	три секции со склонами
+A6	Weight T11 major
+T12	choice-of-word 728 739	необходимую
+A7	Weight T12 minor
+T13	unclear 728 739	необходимую
+A8	Weight T13 minor
+T14	ThemeRheme 1059 1111	Пристальное внимание уделялось вопросам безопасности
+A9	Weight T14 major
+T15	content_pragmatics 1397 1427	безопасность сейчас не главное
+A10	Weight T15 major
+#1	AnnotatorNotes T15	Не тот акцент. Спортсмен говорит, что безопасность не проблема.
+T16	unclear 1564 1652	на трассе не было крутых поворотов, которые и становятся проблемой для многих спортсмено
+A11	Weight T16 major
+#2	AnnotatorNotes T16	на которой из двух? Если речь про Вистлер, то почему отсутствующие повороты становились проблемой?
+T17	content_reference 1742 1764	легко управлять санями
+A12	Weight T17 minor
+T18	unclear 1855 1896	Всё дело заключается в стремление набрать
+A13	Weight T18 major
+T19	typo 1878 1888	стремление
+T20	wrong_wordform 1952 1963	чувствовали
+T21	wrong_wordform 1990 2003	были убеждены
+T22	unclear 1990 2003	были убеждены
+T23	word_order 2119 2135	в прошлом сезоне
+T24	logic 2219 2229	ещё одного
+A14	Weight T24 major
+#3	AnnotatorNotes T24	куда они посадят третьего в двойке?
+T25	language_lexical 2242 2249	Ребекку
+A15	Technology T25 proper_name
+A16	Weight T25 major
+T26	language_punctuation 2471 2480	- Говорит
+T27	language_punctuation 2495 2499	- "И
+T28	Content 2566 2574	ы хотели
+A17	Weight T28 major
+#4	AnnotatorNotes T28	кто мы? В контексте предыдущего получается, что Ребека будет-таки третьей в двойке
+T29	content_cohesion 2731 2745	В то время как
+T30	language_spelling 2868 2879	становиться
+T31	distortion 2950 3046	Чтобы принять участие на олимпийских играх в Сочи, необходимо заработать по два отборочных места
+A18	Weight T31 major
+T32	choice-of-word 3136 3152	должны выступать
+A19	Weight T32 major

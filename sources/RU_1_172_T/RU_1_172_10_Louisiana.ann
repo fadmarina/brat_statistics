@@ -1,0 +1,67 @@
+T1	omission 39 49	невероятно
+A1	Technology T1 too_free
+A2	Weight T1 major
+T2	omission 90 103	корреспондент
+A3	Technology T2 too_free
+A4	Weight T2 major
+T3	choice-of-word 173 183	признались
+A5	Technology T3 TL
+A6	Weight T3 minor
+T4	omission 440 447	февраля
+A7	Technology T4 too_free
+A8	Weight T4 major
+T5	distortion 483 490	приняли
+A9	Technology T5 SL
+A10	Weight T5 major
+T6	capitals 514 519	кубка
+A11	Technology T6 proper_name
+A12	Weight T6 minor
+T7	distortion 691 699	отрезков
+A13	Technology T7 SL
+A14	Weight T7 minor
+T8	choice-of-word 917 927	трагичного
+A15	Technology T8 TL
+A16	Weight T8 minor
+T9	Good_job 1407 1441	и спортсмен мог вылететь за трассу
+T10	combinability 1453 1460	понести
+A17	Technology T10 TL
+A18	Weight T10 major
+T11	combinability 1477 1488	последствия
+A19	Technology T11 TL
+A20	Weight T11 major
+*	lex_combinability T10 T11
+T12	language_punctuation 1477 1488	последствия
+A21	Technology T12 TL
+A22	Weight T12 minor
+T13	language_lexical 1512 1518	Уолкер
+A23	Technology T13 proper_name
+A24	Weight T13 minor
+T14	language_punctuation 1735 1743	скорости
+A25	Technology T14 TL
+A26	Weight T14 minor
+T15	ungrammatical 1747 1765	К концу тренировки
+A27	Technology T15 too_literal
+A28	Weight T15 minor
+T16	choice-of-word 1948 1960	тестирования
+A29	Technology T16 too_literal
+A30	Weight T16 major
+T17	capitals 2157 2164	Заявила
+A31	Technology T17 TL
+A32	Weight T17 minor
+T18	omission 2218 2222	т.к.
+A33	Technology T18 too_free
+A34	Weight T18 major
+T19	distortion 2348 2388	подтверждают превосходство  своей страны
+A35	Technology T19 SL
+A36	Weight T19 critical
+T20	omission 2578 2593	их всего четыре
+A37	Technology T20 too_free
+A38	Weight T20 minor
+T21	language_syntax 2578 2593	их всего четыре
+A39	Technology T21 TL
+A40	Weight T21 minor
+T22	omission 2815 2820	кубке
+A41	Technology T22 too_free
+A42	Weight T22 minor
+T23	Content 1 12	Пола Уокер:
+#1	AnnotatorNotes T23	На мой взгляд, перевод грешит довольно многочисленными , хоть и не критическими сокращениями, т.е. вольностями.

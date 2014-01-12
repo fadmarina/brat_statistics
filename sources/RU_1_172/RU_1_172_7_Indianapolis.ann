@@ -1,0 +1,55 @@
+T1	choice-of-word 240 248	(пилоты)
+T2	distortion 472 480	пораньше
+A1	Weight T2 major
+T3	distortion 630 639	закончили
+A2	Weight T3 major
+T4	distortion 500 512	соревнования
+A3	Weight T4 major
+T5	content_pragmatics 727 750	всё прошло как по маслу
+A4	Weight T5 major
+#1	AnnotatorNotes T5	не тот акцент
+T6	combinability 889 907	подъёмных участках
+T7	content_pragmatics 933 958	необходимы большие усилия
+A5	Weight T7 minor
+#2	AnnotatorNotes T7	лишние коннотации
+T8	combinability 1135 1163	усилили технику безопасности
+A6	Weight T8 major
+T9	distortion 1135 1177	усилили технику безопасности, после аварии
+A7	Weight T9 major
+T10	logic 1215 1235	в результате которой
+A8	Weight T10 critical
+#3	AnnotatorNotes T10	в результате усиленной техники безопасности?
+T11	Good_job 1399 1443	на этот раз проблем с безопасностью не будет
+T12	unclear 1586 1728	невозможно набрать скорость при выходе из поворота с касанием в апексе, потому что именно на этом участке у спортсменов возникали неприятности
+A9	Weight T12 major
+#4	AnnotatorNotes T12	каким образом возникновение неприятностей у спортсменов на определенном участке связано причинно-следственной связью с невозможностью набрать скорость на нем?
+T13	language_punctuation 1869 1878	проходишь
+T14	content_reference 1894 1902	скорости
+A10	Weight T14 major
+#5	AnnotatorNotes T14	безопасности
+T15	ThemeRheme 1797 1812	довольно просто
+T16	language_lexical 2168 2175	Ребекка
+A11	Technology T16 proper_name
+T17	ThemeRheme 2168 2182	Ребекка Уилсон
+T18	language_spelling 2190 2200	брейкманом
+#6	AnnotatorNotes T18	http://sochi2014.blob.core.windows.net/storage/games/PDF/2_Bobsleigh_skeleton_luge.pdf
+T19	distortion 2329 2364	недавно мы достигли огромной победы
+A12	Weight T19 major
+T20	ungrammatical 2547 2554	в этой,
+T21	content_reference 2460 2505	я знаю, что это начало в борьбе за Кубок мира
+A13	Weight T21 major
+T22	combinability 2661 2679	уверенно настроена
+A14	Weight T22 major
+T23	content_reference 2601 2632	борьба за пьедестал не окончена
+A15	Weight T23 major
+T24	combinability 2751 2761	достижения
+T25	combinability 2776 2791	количества мест
+*	lex_combinability T24 T25
+T26	logic 2747 2859	Для достижения максимального количества мест в отборочном туре на Олимпиаде в Сочи они могут занять по два места
+A16	Weight T26 critical
+T27	choice-of-word 2948 2953	стран
+T28	unclear 3066 3105	команды, занявшие вторые и третьи места
+A17	Weight T28 major
+T29	logic 3159 3197	которые приносят меньше всего рейтинга
+A18	Weight T29 major
+#7	AnnotatorNotes T29	а зачем тогда они это вообще делают?

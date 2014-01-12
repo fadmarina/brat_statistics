@@ -1,0 +1,88 @@
+T1	wrong_wordform 0 12	﻿Олимпийский
+T2	language_lexical 176 188	Паула Уолкер
+A1	Technology T2 proper_name
+A2	Weight T2 major
+T3	capitals 202 213	Олимпийская
+T4	ungrammatical 374 391	не будут допущены
+A3	Weight T4 major
+T5	capitals 396 406	Зимних Игр
+T6	distortion 374 407	не будут допущены  до Зимних Игр,
+A4	Weight T6 critical
+T7	choice-of-word 442 470	соревнуются в сезон открытия
+A5	Weight T7 critical
+T8	word_order 492 506	в эти выходные
+T9	content_pragmatics 572 582	я боролась
+A6	Weight T9 major
+T10	word_order 587 602	Уолкер сообщила
+T11	distortion 603 619	для радиостанции
+A7	Weight T11 major
+T12	preposition 603 606	для
+T13	distortion 693 702	поворотов
+A8	Weight T13 major
+T14	choice-of-word 651 663	быть быстрым
+A9	Weight T14 major
+T15	nonsense 773 890	не теряете пару сотых секунды , как на других трассах , вы говорите десятых секунды - что, в бобслее катастрофическая
+A10	Weight T15 critical
+T16	choice-of-word 968 978	скользящем
+A11	Weight T16 critical
+T17	ThemeRheme 895 929	Проблемы безопасности были подняты
+A12	Weight T17 major
+T18	capitals 1003 1012	Канадских
+T19	choice-of-word 1042 1074	спортсмена санного спорта Грузии
+A13	Weight T19 critical
+T20	preposition 1137 1138	в
+A14	Weight T20 major
+T21	choice-of-word 1115 1120	- кто
+T22	preposition 1331 1340	в течение
+A15	Weight T22 major
+T23	choice-of-word 1361 1366	курса
+A16	Weight T23 major
+T24	unclear 1241 1284	Разница с трассой в Уистлере состояла в том
+A17	Weight T24 critical
+T25	nonsense 1369 1464	не было таких масштабов , чтобы сойти с гоночной трассы , потому что там могут столкнуться люди
+A18	Weight T25 critical
+T26	language_punctuation 1460 1467	люди ",
+T27	choice-of-word 1537 1560	простая трасса для езды
+A19	Weight T27 major
+T28	Delete 1552 1560	для езды
+T29	distortion 1726 1742	к концу обучения
+A20	Weight T29 critical
+T30	ungrammatical 1748 1775	оба чувствовать себя хорошо
+A21	Weight T30 critical
+T31	choice-of-word 1776 1786	на дорожке
+A22	Technology T31 inconsistency
+A23	Weight T31 critical
+T32	content_cohesion 1827 1833	на нем
+A24	Weight T32 major
+T33	choice-of-word 1819 1826	сыграть
+A25	Weight T33 major
+T34	wrong_wordform 1882 1888	подала
+T35	unclear 1924 1957	интенсивного испытания в обучении
+A26	Weight T35 critical
+T36	choice-of-word 1985 1992	Ревекка
+A27	Technology T36 proper_name
+T37	choice-of-word 2007 2021	присоединилась
+A28	Weight T37 major
+T38	choice-of-word 2026 2045	тормозной кондуктор
+A29	Weight T38 critical
+T39	choice-of-word 2053 2085	женского экипажа их двух человек
+A30	Weight T39 major
+T40	ungrammatical 2175 2189	Ревекка сделал
+T41	distortion 2190 2214	такую ​​огромную прибыль
+A31	Weight T41 critical
+T42	choice-of-word 2225 2232	штурман
+A32	Weight T42 major
+T43	combinability 2284 2299	что должен была
+T44	nonsense 2442 2495	подиумы финишей способствуют в укреплении уверенности
+A33	Weight T44 critical
+T45	choice-of-word 2521 2539	Британский Бобслей
+T46	nonsense 2549 2612	столько претендовать в мировом рейтинге, насколько это возможно
+A34	Weight T46 critical
+T47	capitals 2674 2685	Олимпийских
+T48	content_cohesion 2708 2761	, они реально могут достичь - два в каждой дисциплине
+A35	Weight T48 critical
+T49	choice-of-word 2802 2817	быть утверждены
+A36	Weight T49 major
+T50	choice-of-word 2828 2833	стран
+T51	nonsense 2939 3027	второе и третье-выбор команды начали свой ​​сезон на нижестоящие цепи Американский Кубка
+A37	Weight T51 critical

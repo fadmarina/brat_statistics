@@ -1,0 +1,68 @@
+T1	language_lexical 127 133	Уолкер
+A1	Technology T1 proper_name
+A2	Weight T1 major
+T2	choice-of-word 266 270	Пара
+T3	choice-of-word 301 326	чуть раньше в этом месяце
+T4	unclear 329 355	теперь не допустится вновь
+A3	Weight T4 major
+T5	ungrammatical 452 479	на открытии сезона за Кубок
+A4	Weight T5 major
+T6	capitals 480 484	Мира
+T7	distortion 498 553	Соревнования в Ванкувере не показались слишком сложными
+A5	Weight T7 critical
+#1	AnnotatorNotes T7	речь идет о трассе, а не о соревнованиях!
+T8	language_punctuation 594 606	постараться"
+T9	choice-of-word 713 723	восходящих
+T10	Good_job 649 700	Развить высокую скорость на трассе невероятно сложн
+T11	ThemeRheme 935 962	Вопрос о мерах безопасности
+T12	typo 1159 1166	трасссе
+T13	capitals 1186 1192	Зимних
+T14	content_pragmatics 1249 1288	дело было вовсе не в мерах безопасности
+A6	Weight T14 major
+#2	AnnotatorNotes T14	а в чем? Читатель очень надеется, что это будет ясно из цитаты ниже. 
+T15	language_lexical 1309 1317	Вистлере
+A7	Technology T15 inconsistency
+A8	Weight T15 major
+#3	AnnotatorNotes T15	определитесь Вистлер или Уистлер. А как правильнее?
+T16	preposition 1376 1384	во время
+A9	Weight T16 major
+T17	combinability 1461 1501	именно тогда люди и подвержены опасности
+A10	Weight T17 major
+T18	ungrammatical 1525 1555	27 летний саночник, продолжила
+T19	choice-of-word 1535 1543	саночник
+A11	Weight T19 major
+T20	nonsense 1573 1610	трасса достаточно проста в управлении
+A12	Weight T20 critical
+T21	unclear 1710 1766	сложности возникают при попытке развить высокую скорость
+A13	Weight T21 major
+#4	AnnotatorNotes T21	Если не искажение (сложность СОСТОИТ в том, чтобы развить высокую скорость), то как минимум непонятно
+T22	language_lexical 1921 1932	Джилиан Сук
+A14	Technology T22 proper_name
+A15	Weight T22 major
+T23	wrong_wordform 1950 1959	показался
+#5	AnnotatorNotes T23	казался
+T24	ThemeRheme 2024 2038	Ребекка Уилсон
+T25	combinability 2039 2053	присоединилась
+A16	Weight T25 major
+T26	combinability 2075 2092	в женскую команду
+*	lex_combinability T25 T26
+T27	language_punctuation 2254 2265	результаты"
+T28	distortion 2383 2409	что-то особенное в истории
+A17	Weight T28 major
+T29	capitals 2416 2420	Мира
+T30	Good_job 2491 2522	увеличивает мои шансы на победу
+T31	choice-of-word 2556 2562	подиум
+A18	Weight T31 major
+#6	AnnotatorNotes T31	пьедестал? 
+T32	capitals 2621 2631	Британской
+T33	choice-of-word 2660 2666	взятие
+A19	Weight T33 major
+T34	choice-of-word 2660 2711	взятие как можно большего количества мировых вершин
+A20	Weight T34 major
+T35	unclear 2686 2711	количества мировых вершин
+A21	Weight T35 major
+T36	distortion 2753 2795	выиграть максимальное количество испытаний
+A22	Weight T36 critical
+T37	unclear 2913 2918	наций
+A23	Weight T37 major
+T38	typo 3094 3102	в сезоне

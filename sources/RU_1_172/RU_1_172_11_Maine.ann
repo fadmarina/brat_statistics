@@ -1,0 +1,64 @@
+T1	language_lexical 308 312	Пара
+A1	Weight T1 minor
+T2	Delete 328 342	заключительные
+T3	combinability 313 342	завершила свои заключительные
+A2	Technology T3 too_literal
+A3	Weight T3 minor
+T4	ungrammatical 406 413	допущен
+T5	distortion 556 571	я сразу поладил
+A4	Technology T5 background_info
+A5	Weight T5 critical
+T6	language_lexical 623 629	Уолкер
+A6	Technology T6 inconsistency
+A7	Weight T6 major
+T7	ungrammatical 576 589	с этой [Сочи]
+A8	Technology T7 too_literal
+A9	Weight T7 minor
+#1	AnnotatorNotes T7	в Сочи
+T8	language_punctuation 603 615	побороться",
+T9	language_syntax 648 758	Это невероятно трудно быть быстрым на трассе из-за трех подъемных отрезков, которые могут быть сложной задачей
+A10	Technology T9 too_literal
+A11	Weight T9 major
+T10	choice-of-word 663 682	трудно быть быстрым
+T11	language_punctuation 647 651	"Это
+T12	language_punctuation 761 766	"Если
+T13	language_punctuation 873 882	секунды -
+T14	ThemeRheme 913 935	Вопросы о безопасности
+T15	ThemeRheme 1057 1102	после смерти грузинского спортсмена-саночника
+*	info_structure T14 T15
+A12	Weight T14 major
+T16	ungrammatical 949 1004	касательно на Ванкувер 2010 Олимпийского санного центра
+A13	Weight T16 major
+T17	distortion 1151 1171	дважды разбивавшаяся
+A14	Technology T17 background_info
+A15	Weight T17 critical
+T18	wrong_wordform 1305 1309	была
+T19	ungrammatical 1476 1508	люди столкнулся с неприятностями
+A16	Weight T19 major
+T20	nonsense 1401 1458	не было много возможностей , чтобы быть с гоночной трассе
+A17	Weight T20 critical
+T21	language_punctuation 1494 1511	неприятностями ",
+A18	Weight T21 minor
+T22	combinability 1589 1606	трасса для заезда
+A19	Technology T22 too_literal
+A20	Weight T22 major
+T23	combinability 1652 1682	от которых появлялось сомнение
+A21	Weight T23 major
+T24	nonsense 1797 1829	чувствовали себя хорошо о заезде
+A22	Weight T24 critical
+T25	content_cohesion 1874 1880	на ней
+T26	wrong_wordform 1937 1943	подало
+T27	combinability 1973 2015	после интенсивного тестирования в обучении
+A23	Weight T27 major
+T28	choice-of-word 2106 2129	экипаже из двух человек
+A24	Weight T28 major
+T29	ThemeRheme 2041 2055	Ребекка Уилсон
+T30	combinability 2150 2174	фантастический спортсмен
+A25	Weight T30 major
+A26	Weight T29 major
+T31	nonsense 2280 2453	Для меня это является блестяще , потому что я знаю, что я был на пороге того, чтобы сделать что-то особенное на Кубке мира , и теперь у меня есть Ребекка , которая физически
+A27	Weight T31 critical
+T32	nonsense 2458 2660	В то время как подиумы призёров всегда способствуют укреплению доверия приоритет для команды Британский Бобслей является претендовать столько мировом рейтинге , насколько это возможно в ближайшие месяцы
+A28	Weight T32 critical
+T33	Content 1 74	Сочинская олимпийская бобслейная трасса "безопасна, но технически сложна"
+#2	AnnotatorNotes T33	Судя по всему переводчик не пытался понять текст, а полагался на доработку машинного перевода. 

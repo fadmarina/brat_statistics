@@ -1,0 +1,81 @@
+T1	Delete 185 195	корпорации
+T2	language_syntax 229 248	бобслеисты (пилоты)
+A1	Technology T2 TL
+A2	Weight T2 minor
+T3	distortion 472 480	пораньше
+A3	Technology T3 SL
+A4	Weight T3 major
+T4	distortion 630 651	закончили первый этап
+A5	Technology T4 background_info
+A6	Weight T4 major
+T5	unclear 640 682	первый этап Олимпийского сезона Кубка мира
+A7	Technology T5 TL
+A8	Weight T5 major
+T6	distortion 727 750	всё прошло как по маслу
+A9	Technology T6 TL
+A10	Weight T6 major
+T7	combinability 889 907	подъёмных участках
+A11	Technology T7 TL
+A12	Weight T7 minor
+T8	choice-of-word 933 958	необходимы большие усилия
+A13	Technology T8 TL
+A14	Weight T8 minor
+T9	distortion 1011 1033	как на других участках
+A15	Weight T9 minor
+T10	logic 1057 1092	для победы в бобслее это катастрофа
+A16	Technology T10 TL
+A17	Weight T10 major
+T11	capitals 1105 1116	олимпийских
+A18	Technology T11 proper_name
+A19	Weight T11 major
+T12	language_punctuation 1151 1164	безопасности,
+A20	Technology T12 TL
+A21	Weight T12 minor
+T13	unclear 1573 1656	и было почти невозможно набрать скорость при выходе из поворота с касанием в апексе
+A22	Technology T13 background_info
+A23	Weight T13 critical
+T14	distortion 1838 1902	анкувере были участки, которые проходишь думая только о скорости
+A24	Technology T14 SL
+A25	Weight T14 critical
+T15	language_punctuation 1921 1924	что
+A26	Technology T15 TL
+A27	Weight T15 minor
+T16	ThemeRheme 2168 2200	Ребекка Уилсон станет брейкманом
+A28	Technology T16 TL
+A29	Weight T16 major
+T17	language_lexical 2168 2175	Ребекка
+A30	Technology T17 proper_name
+A31	Weight T17 minor
+T18	distortion 2337 2382	мы достигли огромной победы благодаря Ребекке
+A32	Technology T18 SL
+A33	Weight T18 major
+T19	language_punctuation 2375 2382	Ребекке
+A34	Technology T19 TL
+A35	Weight T19 minor
+T20	distortion 2469 2505	то это начало в борьбе за Кубок мира
+A36	Technology T20 SL
+A37	Weight T20 critical
+T21	incomplete_structure 2547 2553	в этой
+A38	Technology T21 TL
+A39	Weight T21 major
+T22	distortion 2596 2632	Пока борьба за пьедестал не окончена
+A40	Weight T22 major
+T23	combinability 2661 2679	уверенно настроена
+A41	Technology T23 TL
+A42	Weight T23 minor
+T24	logic 2748 2859	ля достижения максимального количества мест в отборочном туре на Олимпиаде в Сочи они могут занять по два места
+A43	Weight T24 critical
+T25	combinability 2751 2761	достижения
+A44	Weight T25 minor
+T26	combinability 2776 2786	количества
+A45	Weight T26 minor
+*	lex_combinability T25 T26
+T27	language_syntax 2938 2953	топе 14-и стран
+A46	Weight T27 major
+T28	incomplete_structure 3012 3038	отборочного тура 19 января
+A47	Weight T28 major
+T29	language_punctuation 3057 3065	расклада
+A48	Technology T29 TL
+A49	Weight T29 major
+T30	logic 3160 3197	оторые приносят меньше всего рейтинга
+A50	Weight T30 major

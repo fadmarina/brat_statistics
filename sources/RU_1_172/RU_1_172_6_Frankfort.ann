@@ -1,0 +1,67 @@
+T1	language_lexical 193 205	Паула Волкер
+A1	Technology T1 proper_name
+A2	Weight T1 major
+T2	content_pragmatics 420 445	не будут допущены обратно
+A3	Weight T2 major
+T3	capitals 456 462	Зимних
+T4	capitals 469 476	Феврале
+T5	content_pragmatics 396 416	в этом месяце раньше
+A4	Technology T5 too_literal
+A5	Weight T5 major
+T6	capitals 515 520	кубке
+T7	preposition 526 533	Калгари
+T8	language_punctuation 553 564	В Ванкувере
+T9	choice-of-word 345 349	Пара
+A6	Weight T9 major
+#1	AnnotatorNotes T9	лишние коннотации
+T10	ThemeRheme 918 954	Требования безопасности были усилены
+A7	Weight T10 major
+T11	choice-of-word 1050 1067	центре скольжения
+A8	Weight T11 critical
+T12	capitals 1092 1101	Канадских
+A9	Weight T12 major
+T13	language_lexical 1108 1116	Вистлера
+A10	Technology T13 proper_name
+T14	language_punctuation 1128 1137	Джексон -
+T15	combinability 1146 1163	разбился два раза
+T16	content_pragmatics 1220 1242	дело не в безопасности
+A11	Weight T16 major
+T17	logic 1246 1475	Разница с трассой в Вистлере в том, что тебе надо быть гораздо более аккуратным в процессе самой быстрой части гонки, и там не было столько возможностей улететь с гоночной линии, потому что именно там люди попадали в неприятности
+A12	Weight T17 critical
+T18	language_punctuation 1507 1518	продолжил -
+T19	choice-of-word 1546 1574	лёгкая трасса для управления
+A13	Weight T19 major
+T20	unclear 1651 1682	это просто попытка быть быстрым
+A14	Weight T20 major
+T21	unclear 1724 1757	испытывали хорошее чувство о ходе
+A15	Weight T21 critical
+T22	distortion 1790 1802	станем лучше
+A16	Weight T22 critical
+T23	word_order 1855 1871	в прошлом сезоне
+T24	unclear 1842 1846	дало
+A17	Weight T24 major
+T25	nonsense 1883 1917	интенсивных тренировок на обучение
+A18	Weight T25 major
+T26	language_lexical 1943 1950	Ребекка
+A19	Technology T26 proper_name
+T27	nonsense 2010 2039	" женщина лидер, двое мужчин"
+A20	Weight T27 critical
+T28	language_punctuation 2157 2164	усилия"
+T29	choice-of-word 2060 2103	фантастический атлет, и не хуже в этом году
+A21	Technology T29 too_literal
+A22	Weight T29 major
+T30	distortion 1507 1516	продолжил
+A23	Weight T30 critical
+T31	language_lexical 2286 2299	Мировом Кубке
+A24	Technology T31 proper_name
+A25	Weight T31 major
+T32	choice-of-word 2408 2424	подиумные финиши
+A26	Weight T32 critical
+T33	ungrammatical 2644 2686	число квалификационных Сочинской олимпиады
+A27	Weight T33 critical
+T34	distortion 2726 2750	двое в каждой дисциплине
+A28	Weight T34 major
+T35	choice-of-word 2801 2806	наций
+A29	Weight T35 major
+T36	choice-of-word 2914 2930	варианты команды
+A30	Weight T36 major

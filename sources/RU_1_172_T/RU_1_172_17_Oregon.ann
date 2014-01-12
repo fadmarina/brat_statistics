@@ -1,0 +1,54 @@
+T1	combinability 97 121	репортёр Олимпийских игр
+A1	Technology T1 TL
+A2	Weight T1 minor
+T2	choice-of-word 180 190	признались
+A3	Technology T2 TL
+A4	Weight T2 minor
+T3	logic 368 391	е будет допущена до них
+A5	Technology T3 TL
+A6	Weight T3 major
+T4	language_punctuation 608 615	сложнее
+A7	Technology T4 TL
+A8	Weight T4 minor
+T5	word_order 709 732	отрезков, идущих в гору
+A9	Technology T5 TL
+A10	Weight T5 minor
+T6	ThemeRheme 922 931	в бобслее
+A11	Technology T6 TL
+A12	Weight T6 minor
+T7	combinability 935 965	Тревога о вопросе безопасности
+A13	Technology T7 TL
+A14	Weight T7 major
+T8	choice-of-word 1077 1081	умер
+A15	Technology T8 TL
+A16	Weight T8 minor
+T9	distortion 1284 1312	Разница с трассой в Уистлере
+A17	Technology T9 SL
+A18	Weight T9 major
+T10	distortion 1370 1386	во время разгона
+A19	Technology T10 too_free
+A20	Weight T10 major
+T11	language_punctuation 1758 1761	что
+A21	Technology T11 TL
+A22	Weight T11 minor
+T12	language_lexical 2086 2093	Ребекка
+A23	Technology T12 proper_name
+A24	Weight T12 minor
+T13	choice-of-word 2311 2327	я на пороге того
+A25	Technology T13 TL
+A26	Weight T13 minor
+T14	combinability 2534 2554	стимулом уверенности
+A27	Technology T14 TL
+A28	Weight T14 major
+T15	ungrammatical 2631 2650	максимально большее
+A29	Technology T15 TL
+A30	Weight T15 minor
+T16	combinability 2747 2782	достигнуть максимального количества
+A31	Technology T16 TL
+A32	Weight T16 minor
+T17	unclear 2886 2938	ве женские команды вошли в список четырнадцати стран
+A33	Technology T17 TL
+A34	Weight T17 major
+T18	distortion 3050 3100	для второго и третьего дивизионов уже открыт сезон
+A35	Technology T18 SL
+A36	Weight T18 major

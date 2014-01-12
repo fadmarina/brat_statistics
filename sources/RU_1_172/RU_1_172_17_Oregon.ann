@@ -1,0 +1,38 @@
+T1	combinability 97 121	репортёр Олимпийских игр
+A1	Weight T1 minor
+T2	distortion 385 391	до них
+A2	Weight T2 critical
+#1	AnnotatorNotes T2	если до тренировок
+T3	language_syntax 367 421	не будет допущена до них, пока не стартуют зимние игры
+A3	Weight T3 major
+T4	language_punctuation 608 618	сложнее" -
+T5	language_punctuation 651 662	"Невероятно
+T6	ThemeRheme 935 974	Тревога о вопросе безопасности возросла
+A4	Weight T6 major
+T7	choice-of-word 1077 1081	умер
+A5	Weight T7 major
+#2	AnnotatorNotes T7	погиб
+T8	Good_job 1222 1269	на этот раз с безопасностью никаких проблем нет
+T9	Good_job 1142 1204	который дважды перевернулся во время последних Олимпийских игр
+T10	content_reference 1370 1386	во время разгона
+A6	Weight T10 major
+T11	Delete 1646 1654	какие-то
+T12	choice-of-word 1731 1749	сделать всё быстро
+A7	Weight T12 major
+T13	language_punctuation 1753 1761	"Так что
+T14	Good_job 1869 1904	мы проявим себя на ней по максимуму
+T15	language_lexical 2086 2093	Ребекка
+A8	Technology T15 proper_name
+A9	Weight T15 minor
+T16	content_reference 2306 2376	ведь я на пороге того, чтобы сделать что-то чрезвычайное на Кубке мира
+A10	Weight T16 minor
+T17	combinability 2526 2568	главным стимулом уверенности в своих силах
+A11	Weight T17 major
+T18	choice-of-word 2747 2757	достигнуть
+A12	Weight T18 minor
+#3	AnnotatorNotes T18	получить?
+T19	unclear 2920 2938	четырнадцати стран
+A13	Weight T19 major
+#4	AnnotatorNotes T19	14-ти лучших экипажей в мировом рейтинге
+T20	distortion 3050 3132	для второго и третьего дивизионов уже открыт сезон  американского этапа Кубка мира
+A14	Weight T20 major

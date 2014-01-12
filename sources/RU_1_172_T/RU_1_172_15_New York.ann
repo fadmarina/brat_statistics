@@ -1,0 +1,70 @@
+T1	Delete 290 305	для преодоления
+T2	combinability 271 281	технически
+T3	combinability 294 305	преодоления
+*	lex_combinability T2 T3
+T4	language_spelling 475 481	Зимних
+A1	Technology T4 proper_name
+A2	Weight T4 minor
+T5	choice-of-word 428 454	не будут иметь возможности
+A3	Technology T5 TL
+A4	Weight T5 minor
+T6	ungrammatical 554 580	открытии сезона Кубка Мира
+A5	Technology T6 TL
+A6	Weight T6 major
+T7	wrong_wordform 1000 1016	катастрофическим
+A7	Weight T7 minor
+T8	language_punctuation 975 976	-
+A8	Technology T8 TL
+A9	Weight T8 minor
+T9	choice-of-word 793 804	возвышенных
+A10	Technology T9 TL
+A11	Weight T9 minor
+T10	language_spelling 1073 1080	ды 2010
+A12	Technology T10 proper_name
+A13	Weight T10 minor
+T11	choice-of-word 1178 1184	смерти
+A14	Technology T11 TL
+A15	Weight T11 minor
+T12	choice-of-word 1269 1290	потерпел столкновение
+A16	Technology T12 TL
+A17	Weight T12 major
+T13	logic 1081 1130	в Ванкувере в Олимпийском санно-бобслейном центре
+A18	Weight T13 major
+T14	distortion 1369 1427	происшествие не является результатом проблемы безопасности
+A19	Weight T14 critical
+T15	Good_job 1550 1618	не было особой свободы для маневров и было легко слететь с дистанции
+T16	logic 1731 1741	эта трасса
+A20	Weight T16 major
+T17	choice-of-word 1826 1848	вы задавались вопросом
+A21	Technology T17 too_literal
+A22	Weight T17 major
+T18	unclear 1900 1938	случай попытки набрать большую скорост
+A23	Weight T18 critical
+T19	wrong_wordform 2043 2053	достигнуть
+A24	Technology T19 TL
+A25	Weight T19 minor
+T20	choice-of-word 2181 2204	проверки на тренировках
+A26	Weight T20 major
+T21	language_lexical 2205 2229	в течение летних месяцев
+A27	Technology T21 too_literal
+A28	Weight T21 minor
+T22	ThemeRheme 2231 2245	Ребекка Уилсон
+A29	Weight T22 major
+T23	choice-of-word 2500 2531	Для меня это невероятно хорошо,
+A30	Weight T23 minor
+T24	language_punctuation 2500 2503	Для
+A31	Technology T24 TL
+A32	Weight T24 minor
+T25	logic 2715 2719	Хотя
+A33	Weight T25 major
+T26	language_syntax 2822 2838	является набрать
+A34	Technology T26 TL
+A35	Weight T26 minor
+T27	ungrammatical 2966 2997	сколько они на самом деле могут
+A36	Weight T27 minor
+T28	logic 3042 3074	команды, входящие в топ-14 стран
+A37	Weight T28 major
+T29	distortion 3124 3138	должны прибыть
+A38	Weight T29 critical
+T30	choice-of-word 3207 3243	выбранные во вторую и третью очередь
+A39	Weight T30 major

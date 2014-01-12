@@ -1,0 +1,37 @@
+T1	language_punctuation 50 51	-
+T2	language_spelling 108 111	Хоп
+T3	content_reference 167 177	бобслеисты
+T4	language_spelling 199 205	Волкер
+T5	content_reference 396 416	в этом месяце раньше
+T6	capitals 456 457	З
+T7	language_punctuation 513 514	,
+T8	capitals 515 516	к
+T9	preposition 524 525	а
+T10	capitals 1025 1026	В
+T11	choice-of-word 1050 1067	центре скольжения
+T12	capitals 1092 1093	К
+T13	language_punctuation 1136 1137	-
+T14	content_reference 1146 1154	разбился
+T15	language_punctuation 1191 1192	х
+T16	choice-of-word 1399 1406	улететь
+T17	language_punctuation 1475 1476	"
+T18	language_morphology 1507 1516	продолжил
+T19	language_punctuation 1517 1518	-
+T20	logic 1651 1682	это просто попытка быть быстрым
+T21	unclear 1751 1757	о ходе
+T22	distortion 1790 1802	станем лучше
+T23	language_morphology 1819 1826	Волкера
+T24	distortion 1895 1917	тренировок на обучение
+T25	nonsense 2010 2039	" женщина лидер, двое мужчин"
+T26	language_morphology 2167 2174	сообщил
+T27	language_morphology 2243 2246	был
+T28	choice-of-word 2286 2299	Мировом Кубке
+T29	language_punctuation 2300 2301	и
+T30	language_lexical 2408 2424	подиумные финиши
+T31	unclear 2631 2666	максимальное число квалификационных
+T32	capitals 2667 2668	С
+T33	register 2707 2722	реально достичь
+T34	distortion 2726 2730	двое
+T35	logic 2768 2791	нужно 2 женские команды
+T36	choice-of-word 2914 2930	варианты команды
+T37	choice-of-word 2969 2987	Американском Кубке

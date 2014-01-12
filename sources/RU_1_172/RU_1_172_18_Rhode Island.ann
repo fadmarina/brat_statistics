@@ -1,0 +1,83 @@
+T1	unclear 1 96	Олимпийский объект - бобслейная трасса Сочинской Олимпиады, - безопасный, но технически сложный
+A1	Weight T1 major
+T2	language_syntax 1 96	Олимпийский объект - бобслейная трасса Сочинской Олимпиады, - безопасный, но технически сложный
+T3	language_lexical 658 668	ББС Спорту
+A2	Technology T3 proper_name
+A3	Weight T3 major
+T4	choice-of-word 155 172	Участники бобслея
+A4	Weight T4 major
+T5	combinability 155 172	Участники бобслея
+T6	distortion 300 317	Пара Джека и Полы
+A5	Weight T6 major
+T7	language_lexical 431 438	Феврале
+A6	Weight T7 major
+T8	content_pragmatics 440 474	им не разрешено выходить на трассу
+A7	Weight T8 major
+T9	choice-of-word 525 553	сезонном открытии чемпионата
+A8	Weight T9 major
+T10	distortion 584 601	я сразу же привык
+A9	Technology T10 background_info
+A10	Weight T10 critical
+T11	language_punctuation 635 643	нелегко"
+T12	choice-of-word 732 750	действовать быстро
+A11	Weight T12 major
+T13	language_punctuation 671 677	"Из-за
+T14	combinability 926 958	Вопросы по проблемы безопасности
+T15	ThemeRheme 926 971	Вопросы по проблемы безопасности были подняты
+T16	ungrammatical 993 1031	центре  Ванкувера 2010, расположенного
+T17	language_syntax 1059 1087	причиной которых была смерть
+A12	Weight T17 major
+T18	unclear 1059 1087	причиной которых была смерть
+A13	Weight T18 major
+T19	choice-of-word 1088 1108	спортсмена по санкам
+A14	Weight T19 major
+T20	language_lexical 1164 1169	- кто
+A15	Weight T20 major
+T21	unclear 1177 1191	терпел неудачу
+A16	Weight T21 major
+T22	content_pragmatics 1255 1300	в этот раз не безопасность является проблемой
+A17	Weight T22 major
+T23	preposition 1383 1392	в течение
+A18	Weight T23 major
+T24	ungrammatical 1407 1423	части на участке
+T25	logic 1426 1554	тогда вопрос о возможности вылета с гоночной трассы не возникал, потому что именно тогда участники сталкивались с неприятностями
+A19	Weight T25 critical
+T26	preposition 1731 1736	через
+A20	Weight T26 major
+T27	choice-of-word 1791 1803	быть быстрым
+A21	Weight T27 major
+T28	language_punctuation 1806 1811	"Хотя
+T29	combinability 1868 1889	предчувствия о трассе
+A22	Weight T29 major
+T30	Good_job 1908 1951	хорошо себя покажем на ней в следующем году
+T31	combinability 2044 2067	тестирования тренировок
+A23	Weight T31 major
+T32	unclear 2044 2067	тестирования тренировок
+T33	language_lexical 2093 2100	Ребекка
+A24	Technology T33 proper_name
+A25	Weight T33 major
+T34	ThemeRheme 2093 2107	Ребекка Уилсон
+T35	choice-of-word 2155 2181	в экипаже из женских двоек
+A26	Weight T35 critical
+T36	choice-of-word 2108 2131	вступила в соревнования
+A27	Weight T36 major
+#1	AnnotatorNotes T36	была включена в состав женской двойки
+T37	choice-of-word 2235 2252	она ничем не хуже
+T38	choice-of-word 2196 2208	удивительная
+T39	language_punctuation 2278 2292	продвинулась",
+T40	choice-of-word 2324 2348	это всё в лучшую сторону
+A28	Weight T40 major
+T41	choice-of-word 2380 2400	на пути к совершению
+T42	capitals 2622 2632	Британской
+T43	combinability 2633 2648	команды бобслея
+A29	Weight T43 major
+T44	Delete 2723 2754	, насколько это только возможно
+T45	choice-of-word 2781 2788	достичь
+A30	Weight T45 major
+T46	content_cohesion 2873 2909	набрать, это два в каждой дисциплине
+A31	Weight T46 major
+#2	AnnotatorNotes T46	непонятно, что то максимально количество, на которое они рассчитывают - это по два экипажа в каждой дисциплине
+T47	choice-of-word 3107 3136	третьего и четвертого уровней
+A32	Weight T47 major
+T48	capitals 3182 3187	кубок
+A33	Technology T48 proper_name

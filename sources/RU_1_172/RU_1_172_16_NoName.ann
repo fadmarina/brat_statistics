@@ -1,0 +1,83 @@
+T1	language_lexical 202 207	Паулы
+A1	Technology T1 proper_name
+A2	Weight T1 major
+T2	distortion 444 452	досрочно
+A3	Technology T2 SL
+A4	Weight T2 major
+T3	logic 466 530	, так как им запрещено возвращаться обратно до начала Зимних Игр
+A5	Weight T3 critical
+T4	ungrammatical 617 643	на сезонном открытия Кубка
+A6	Weight T4 major
+T5	capitals 1203 1206	Игр
+A7	Technology T5 inconsistency
+T6	capitals 1246 1255	Канадской
+A8	Weight T6 major
+T7	Delete 306 314	является
+T8	language_syntax 306 322	является сложнее
+A9	Weight T8 minor
+T9	capitals 35 40	Играх
+T10	distortion 686 698	почувствовал
+A10	Technology T10 background_info
+A11	Weight T10 critical
+T11	content_reference 398 402	Пара
+A12	Weight T11 minor
+#1	AnnotatorNotes T11	"лишние" коннотации
+T12	language_syntax 787 844	Это невероятно трудно ехать с высокой скоростью по трассе
+A13	Technology T12 too_literal
+A14	Weight T12 major
+T13	Delete 881 887	в гору
+T14	language_punctuation 933 938	"Если
+T15	distortion 1011 1031	как  в другом спорте
+A15	Weight T15 major
+T16	language_punctuation 1134 1144	саночника,
+T17	language_punctuation 1159 1166	Нодара,
+T18	language_syntax 1207 1278	в Ванкувере 2010,который расположен на Канадской горной вершине Уистлер
+A16	Weight T18 major
+T19	word_order 1339 1357	разбивался  дважды
+T20	capitals 1371 1377	Зимних
+T21	ungrammatical 1505 1514	настолько
+A17	Weight T21 major
+T22	unclear 1585 1623	трасса почти не отличается от гоночной
+A18	Weight T22 major
+T23	choice-of-word 1759 1764	этапы
+A19	Weight T23 major
+T24	choice-of-word 1838 1848	тренировки
+A20	Weight T24 major
+#2	AnnotatorNotes T24	тренировок
+T25	choice-of-word 1942 1951	преуспеть
+A21	Weight T25 minor
+T26	choice-of-word 2026 2035	правдивым
+A22	Weight T26 major
+T27	unclear 2026 2035	правдивым
+A23	Weight T27 major
+T28	preposition 2087 2089	за
+T29	language_lexical 2105 2112	Ребекка
+A24	Technology T29 proper_name
+A25	Weight T29 major
+T30	ThemeRheme 2105 2119	Ребекка Уилсон
+A26	Weight T30 major
+T31	distortion 2127 2161	присоединилась в качестве капитана
+A27	Weight T31 critical
+T32	ungrammatical 2162 2187	в женской ведущей команды
+A28	Weight T32 major
+T33	distortion 2286 2322	заработала огромное количество денег
+A29	Weight T33 critical
+T34	language_punctuation 2317 2324	денег",
+T35	word_order 2388 2424	я был готов что-то сделать особенное
+A30	Weight T35 major
+T36	wrong_wordform 2577 2587	завоевания
+T37	logic 2605 2646	всегда помогают ощутить атмосферу доверия
+A31	Weight T37 critical
+T38	unclear 2703 2740	завоевание позиций в мировом рейтинге
+A32	Weight T38 major
+#3	AnnotatorNotes T38	каких позиций?
+T39	distortion 2802 2815	призовых мест
+A33	Weight T39 critical
+T40	logic 2846 2927	из тех, которые они могут на самом деле заработать  - это два в каждой дисциплине
+A34	Weight T40 critical
+T41	nonsense 2930 3103	у Великобритании должно быть две  лучших женских команды  из 14 стран, и две мужских команды, состоящие из  20 человек, которые  приезжают в конец  квалификационного периода
+A35	Weight T41 critical
+T42	nonsense 3206 3233	по американской схеме Кубка
+A36	Weight T42 major
+T43	choice-of-word 3153 3187	вторые - и команды третьего выбора
+A37	Weight T43 major

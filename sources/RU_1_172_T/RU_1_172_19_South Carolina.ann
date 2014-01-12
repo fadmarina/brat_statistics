@@ -1,0 +1,102 @@
+T1	omission 0 7	﻿Трассы
+A1	Technology T1 inconsistency
+A2	Weight T1 major
+T2	capitals 85 93	Би-би-си
+A3	Technology T2 proper_name
+A4	Weight T2 minor
+T3	language_punctuation 137 146	бобслею -
+A5	Technology T3 TL
+A6	Weight T3 minor
+T4	choice-of-word 174 184	признаются
+A7	Technology T4 TL
+A8	Weight T4 minor
+T5	capitals 409 420	олимпийских
+A9	Technology T5 proper_name
+A10	Weight T5 minor
+T6	language_spelling 434 444	состояться
+A11	Technology T6 TL
+A12	Weight T6 minor
+T7	capitals 447 454	Феврале
+A13	Technology T7 too_literal
+A14	Weight T7 minor
+T8	capitals 526 531	кубка
+A15	Technology T8 TL
+A16	Weight T8 minor
+T9	logic 366 370	куда
+A17	Technology T9 SL
+A18	Weight T9 major
+T10	language_punctuation 650 658	голову".
+A19	Technology T10 TL
+A20	Weight T10 minor
+T11	capitals 661 678	Прокомментировала
+A21	Technology T11 TL
+A22	Weight T11 minor
+T12	ThemeRheme 702 719	Невероятно сложно
+A23	Technology T12 TL
+A24	Weight T12 minor
+T13	unclear 728 739	необходимую
+A25	Technology T13 TL
+A26	Weight T13 minor
+T14	distortion 780 798	секции со склонами
+A27	Technology T14 SL
+A28	Weight T14 critical
+T15	ThemeRheme 1059 1111	Пристальное внимание уделялось вопросам безопасности
+A29	Technology T15 TL
+A30	Weight T15 major
+T16	distortion 1397 1427	безопасность сейчас не главное
+A31	Technology T16 SL
+A32	Weight T16 major
+T17	language_lexical 1453 1461	Вистлера
+A33	Technology T17 proper_name
+A34	Weight T17 minor
+T18	choice-of-word 1446 1461	трассы Вистлера
+A35	Technology T18 TL
+A36	Weight T18 major
+T19	unclear 1574 1630	не было крутых поворотов, которые и становятся проблемой
+A37	Technology T19 SL
+A38	Weight T19 critical
+T20	language_spelling 1878 1888	стремление
+A39	Technology T20 TL
+A40	Weight T20 minor
+T21	unclear 1855 1875	Всё дело заключается
+A41	Technology T21 TL
+A42	Weight T21 major
+T22	wrong_wordform 1991 2003	ыли убеждены
+A43	Technology T22 TL
+A44	Weight T22 major
+T23	typo 2152 2163	интенсивные
+A45	Technology T23 TL
+A46	Weight T23 minor
+T24	language_lexical 2242 2249	Ребекку
+A47	Technology T24 inconsistency
+A48	Weight T24 minor
+T25	distortion 2219 2239	ещё одного участника
+A49	Technology T25 SL
+A50	Weight T25 major
+T26	language_punctuation 2458 2469	результаты"
+A51	Technology T26 TL
+A52	Weight T26 minor
+T27	typo 2566 2567	ы
+A53	Technology T27 TL
+A54	Weight T27 minor
+T28	distortion 2566 2585	ы хотели бы сделать
+A55	Technology T28 SL
+A56	Weight T28 major
+T29	language_spelling 2868 2879	становиться
+A57	Technology T29 TL
+A58	Weight T29 minor
+T30	capitals 2975 2986	олимпийских
+A59	Technology T30 proper_name
+A60	Weight T30 major
+T31	distortion 3012 3046	заработать по два отборочных места
+A61	Technology T31 SL
+A62	Weight T31 major
+T32	logic 3067 3079	по окончании
+A63	Technology T32 TL
+A64	Weight T32 minor
+T33	logic 2951 2971	тобы принять участие
+A65	Technology T33 SL
+A66	Weight T33 critical
+T34	logic 3252 3311	Учитывая всё вышесказанное, вторая и третья сборные команды
+A67	Technology T34 TL
+A68	Weight T34 major

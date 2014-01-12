@@ -1,0 +1,46 @@
+T1	language_lexical 121 139	BBC Olympic sports
+A1	Weight T1 major
+T2	logic 491 499	испытать
+A2	Weight T2 major
+T3	language_punctuation 700 712	постараться"
+T4	unclear 800 830	разогнаться до нужной скорости
+A3	Weight T4 major
+#1	AnnotatorNotes T4	нужной для чего?
+T5	content_pragmatics 1196 1245	заговорили о безопасности Санного центра Уистлера
+A4	Weight T5 major
+#2	AnnotatorNotes T5	заговорили о безопасности бобслейных трасс вообще, что для нашего контекста важно, т.к. речь идет о новой олимпийской трассе, про которую в заголовке говорится, что она безопасна
+T6	distortion 1327 1356	дело совсем не в безопасности
+A5	Weight T6 major
+#3	AnnotatorNotes T6	а в чем?
+T7	unclear 1552 1664	Дело в том, что трасса устроена так, что с нее сложно вылететь, в результате чего спортсмены теряют бдительность
+A6	Weight T7 critical
+#4	AnnotatorNotes T7	о какой трассе речь в этом предложении? С трассе в Уистлере вылетело очень много спортсменов, начиная с погибшего, поэтому потерять бдительность было сложно. 
+T8	choice-of-word 1975 1986	разгоняющей
+A7	Weight T8 critical
+#5	AnnotatorNotes T8	разгоняющие есть только в четверках. Женских четверок не бывает. 
+T9	language_lexical 2136 2143	Ребекка
+A8	Technology T9 proper_name
+A9	Weight T9 major
+T10	combinability 2125 2150	тормозящая Ребекка Уилсон
+A10	Weight T10 major
+#6	AnnotatorNotes T10	неудачно построенная фраза. Можно и переформулировать
+T11	language_punctuation 2282 2284	"Я
+T12	language_punctuation 1840 1845	"Хотя
+T13	language_punctuation 894 903	"Допустив
+T14	Good_job 2343 2363	была близка к победе
+T15	content_reference 2415 2471	физически сильнее меня, и это еще больше меня мотивирует
+A11	Weight T15 major
+T16	combinability 2475 2503	Завоевание отборочного места
+A12	Weight T16 major
+T17	distortion 2486 2503	отборочного места
+A13	Weight T17 major
+T18	ungrammatical 2657 2793	действительно могут занять максимальное число отборочных мест - по два в каждой дисциплине - две британские женские команды должны войти
+A14	Weight T18 major
+T19	content_reference 2671 2718	могут занять максимальное число отборочных мест
+A15	Weight T19 major
+#7	AnnotatorNotes T19	максимально число мест от одной страны вроде не ограничено, другое дело, что то число, на которое британцы могут рассчитывать - это по два в каждом виде соревнований. 
+T20	choice-of-word 2878 2885	турнира
+#8	AnnotatorNotes T20	периода
+T21	choice-of-word 2914 2948	вторая и третья отобранные команды
+A16	Weight T21 major
+#9	AnnotatorNotes T21	второй и третий составы, второй и третий экипажы/двойки

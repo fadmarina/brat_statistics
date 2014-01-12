@@ -1,0 +1,97 @@
+T1	capitals 50 60	Безопасная
+A1	Technology T1 TL
+A2	Weight T1 minor
+T2	choice-of-word 107 115	репортер
+A3	Technology T2 too_literal
+A4	Weight T2 minor
+T4	choice-of-word 193 203	признались
+A7	Technology T4 TL
+A8	Weight T4 minor
+T5	language_spelling 258 272	Ванкувере 2010
+A9	Technology T5 proper_name
+A10	Weight T5 minor
+T6	language_punctuation 596 604	Невероят
+A11	Technology T6 TL
+A12	Weight T6 minor
+T7	omission 659 666	отрезка
+A13	Technology T7 too_free
+A14	Weight T7 major
+T8	choice-of-word 873 879	смерти
+A15	Technology T8 TL
+A16	Weight T8 minor
+T9	nonsense 1193 1226	Разница с трассой в Уистлере есть
+A17	Technology T9 SL
+A18	Weight T9 critical
+T10	preposition 1259 1262	при
+A19	Technology T10 TL
+A20	Weight T10 minor
+T11	choice-of-word 1228 1242	Ты должен быть
+A21	Technology T11 too_literal
+A22	Weight T11 minor
+T12	omission 1271 1278	отрезке
+A23	Technology T12 too_free
+A24	Weight T12 critical
+T13	distortion 1313 1331	столкновения людей
+A25	Technology T13 SL
+A26	Weight T13 critical
+T14	language_lexical 186 192	Уолкер
+A27	Technology T14 proper_name
+A28	Weight T14 minor
+T15	choice-of-word 1461 1482	ты задавался вопросом
+A29	Technology T15 too_literal
+A30	Weight T15 minor
+T16	unclear 1536 1555	когда ты  пытаешься
+A31	Technology T16 SL
+A32	Weight T16 major
+T17	wrong_wordform 1586 1596	тренировки
+A33	Technology T17 TL
+A34	Weight T17 minor
+T18	distortion 1600 1621	чувствуем себя хорошо
+A35	Technology T18 SL
+A36	Weight T18 major
+T19	choice-of-word 1677 1688	Партнерство
+A37	Technology T19 too_literal
+A38	Weight T19 major
+T20	logic 1746 1751	после
+A39	Technology T20 SL
+A40	Weight T20 critical
+T22	language_punctuation 1833 1855	в качестве тормозящего
+A43	Technology T22 TL
+A44	Weight T22 minor
+T21	language_punctuation 1776 1800	в течение летних месяцев
+A41	Technology T21 TL
+A42	Weight T21 minor
+T23	language_syntax 1776 1800	в течение летних месяцев
+A45	Technology T23 too_literal
+A46	Weight T23 minor
+T24	ungrammatical 1857 1873	в женский экипаж
+A47	Technology T24 TL
+A48	Weight T24 major
+T25	nonsense 1957 1989	Ребекка сделала правильный выбор
+A49	Technology T25 SL
+A50	Weight T25 critical
+T26	distortion 2065 2083	остается чуть-чуть
+A51	Technology T26 SL
+A52	Weight T26 critical
+T27	unclear 2230 2265	Пока пьедестал  придает уверенность
+A53	Weight T27 critical
+T28	language_punctuation 2329 2337	получить
+A54	Technology T28 TL
+A55	Weight T28 minor
+T29	language_punctuation 2477 2482	число
+A56	Technology T29 TL
+A57	Weight T29 major
+T30	ungrammatical 2477 2491	число, которых
+A58	Technology T30 TL
+A59	Weight T30 major
+T31	ungrammatical 2596 2607	находящиеся
+A60	Technology T31 TL
+A61	Weight T31 minor
+T32	unclear 2610 2624	топ - 14 стран
+A62	Technology T32 TL
+A63	Weight T32 major
+T33	unclear 2670 2681	и прошедших
+A64	Technology T33 SL
+A65	Weight T33 major
+T34	Content 2822 2829	Америки
+#1	AnnotatorNotes T34	Опять белиберда полная!

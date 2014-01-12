@@ -1,0 +1,40 @@
+T1	language_lexical 104 152	Nick Hope | Источник BBC Olympic sports reporter
+A1	Weight T1 major
+T2	typo 324 329	Росси
+T3	typo 246 251	чемна
+T4	ungrammatical 322 342	в Росси, проходившую
+A2	Weight T4 major
+T6	capitals 1055 1064	Канадской
+T7	content_reference 938 1010	уровень безопасности трассы стал значительно выше, по сравнению с треком
+A4	Technology T7 too_free
+A5	Weight T7 major
+T8	language_punctuation 983 988	выше,
+T9	logic 1118 1191	несмотря на то, что он перевернулся дважды на последних олимпийских играх
+A6	Weight T9 major
+T10	distortion 1195 1241	В отличие от трека в Уистлере здесь нужно быть
+A7	Weight T10 critical
+T11	logic 1289 1391	Также, мест, на которых можно перевернуться намного меньше,потому что именно там и начинаются проблемы
+A8	Weight T11 critical
+T12	Good_job 1482 1635	как раз тот случай, где ты пытаешься показать только скорость, в отличие от Ванкувера, где были участки в которых ты сомневался, сможешь ли их преодолеть
+T13	logic 1639 1647	Все-таки
+A9	Weight T13 major
+T14	content_reference 1677 1717	мы оба остались хорошего мнения о трассе
+A10	Weight T14 major
+T15	word_order 1813 1829	в прошлом сезоне
+T16	ThemeRheme 1834 1847	Ребека Уилсон
+A11	Weight T16 major
+T17	choice-of-word 1900 1946	после интенсивных попыток тренироваться вместе
+A12	Weight T17 major
+T18	choice-of-word 1979 1988	саночница
+A13	Weight T18 major
+T19	language_punctuation 2208 2215	сильнее
+T20	wrong_wordform 2288 2298	прибавляли
+T21	distortion 2256 2331	Поскольку призовые места всегда прибавляли уверенности, приоритетной задаче
+A14	Weight T21 major
+T22	logic 2503 2536	на которые они могут рассчитывать
+A15	Weight T22 major
+T23	language_punctuation 2645 2661	мужские в первых
+T24	distortion 2773 2781	запасные
+A16	Weight T24 major
+T25	language_lexical 2825 2848	Американском чемпионате
+A17	Technology T25 proper_name

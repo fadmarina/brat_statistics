@@ -1,0 +1,36 @@
+T1	combinability 290 305	для преодоления
+A1	Weight T1 major
+T2	Delete 290 305	для преодоления
+T3	distortion 333 343	Эта двойка
+A2	Weight T3 major
+T4	choice-of-word 424 464	они не будут иметь возможности вернуться
+A3	Weight T4 major
+T5	choice-of-word 551 580	на открытии сезона Кубка Мира
+A4	Weight T5 major
+T6	combinability 670 694	постараться изо всех сил
+T7	choice-of-word 793 813	возвышенных участков
+T8	Delete 823 828	могут
+T9	language_punctuation 967 976	секунды -
+T10	language_punctuation 862 867	"Если
+T11	logic 1044 1130	были подняты во время Олимпиады 2010 в Ванкувере в Олимпийском санно-бобслейном центре
+A5	Weight T11 major
+T12	choice-of-word 1269 1290	потерпел столкновение
+A6	Weight T12 major
+T13	combinability 1900 1914	случай попытки
+A7	Weight T13 critical
+T14	word_order 2125 2139	в прошлом году
+T15	ThemeRheme 2231 2245	Ребекка Уилсон
+A8	Weight T15 major
+T16	language_lexical 2415 2422	Ребекка
+A9	Technology T16 proper_name
+A10	Weight T16 major
+T17	language_punctuation 2499 2503	"Для
+T18	content_reference 2667 2679	сильнее меня
+A11	Weight T18 minor
+T19	Good_job 2782 2838	все же главной целью британской команды является набрать
+T20	unclear 2966 3027	сколько они на самом деле могут, - по два в каждой дисциплине
+A12	Weight T20 major
+T21	nonsense 3124 3167	должны прибыть до конца отборочного периода
+A13	Weight T21 critical
+T22	choice-of-word 3207 3243	выбранные во вторую и третью очередь
+A14	Weight T22 major

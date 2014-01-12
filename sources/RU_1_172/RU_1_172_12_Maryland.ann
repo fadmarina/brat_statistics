@@ -1,0 +1,55 @@
+T1	distortion 2750 2812	выбранные команды начали свой ‌‌сезон с самым низким рейтингом
+A1	Weight T1 critical
+T2	language_spelling 50 60	Безопасная
+T3	Good_job 96 140	спортивный репортер BBC на Олимпийских играх
+T4	language_lexical 180 192	Паула Уолкер
+A2	Technology T4 proper_name
+A3	Weight T4 major
+T5	choice-of-word 274 278	Пара
+A4	Weight T5 minor
+T6	unclear 333 366	больше не сможет  испытать трассу
+A5	Weight T6 minor
+T7	choice-of-word 429 440	соревнуются
+A6	Weight T7 minor
+T8	language_punctuation 547 556	трассой",
+T9	language_punctuation 587 593	Sport,
+T10	ThemeRheme 832 866	Проблема безопасности была поднята
+T11	language_syntax 867 1026	после смерти  грузинского саночника Нодара Кумариташвили на Олимпиаде в Ванкувере 2010, на санно-бобслейной трассе, расположенной в канадских горах  в Уистлере
+A7	Weight T11 major
+A8	Weight T10 major
+T12	preposition 1259 1262	при
+A9	Weight T12 minor
+T13	distortion 1280 1331	Также не должно быть возможности столкновения людей
+A10	Weight T13 critical
+T14	unclear 1536 1568	когда ты  пытаешься ехать быстро
+A11	Weight T14 major
+T15	distortion 1597 1621	мы чувствуем себя хорошо
+A12	Weight T15 critical
+T16	content_cohesion 1737 1751	надежды, после
+A13	Weight T16 major
+T17	choice-of-word 1817 1831	присоединилась
+A14	Weight T17 critical
+T18	language_punctuation 1764 1775	тренировок,
+T19	language_punctuation 1794 1801	есяцев,
+T20	language_punctuation 1844 1856	тормозящего,
+T21	Good_job 1923 1955	Она хорошо выступает в этом году
+T22	content_cohesion 1951 1964	году, Ребекка
+A15	Weight T22 critical
+T23	distortion 1957 1989	Ребекка сделала правильный выбор
+A16	Weight T23 critical
+T24	language_punctuation 1984 1991	выбор",
+T25	language_punctuation 2010 2014	"Для
+T26	Good_job 2074 2128	чуть-чуть, чтоб сделать что-то особенное на Кубке Мира
+T27	combinability 2292 2307	команды бобслея
+A17	Weight T27 major
+T28	content_cohesion 2230 2234	Пока
+A18	Weight T28 major
+T29	language_punctuation 2329 2338	получить,
+T30	combinability 2452 2468	Олимпийских мест
+T31	combinability 2416 2426	достижения
+*	lex_combinability T31 T30
+T32	capitals 2452 2463	Олимпийских
+T33	ungrammatical 2475 2544	, число, которых они реально могут добиться - два в каждой дисциплине
+A19	Weight T33 major
+T34	unclear 2668 2728	, и прошедших до конца квалификационного периода (19 января)
+A20	Weight T34 major
