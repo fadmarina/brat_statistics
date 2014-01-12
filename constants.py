@@ -34,33 +34,35 @@ ALLOWED_MISTAKES = [
     "Language:"
 ]
 
-LANG_MISTAKES = [
+LANG_MISTAKES = {
     "Language",
-    "Language_lexical",
-        "lexical",
+    "language_lexical",
+        "choice-of-word",
         "combinability",
-    "Language_morphology",
-    "Language_syntax",
+    "language_morphology",
+        "wrong_wordform",
+    "language_syntax",
         "incomplete_structure",
         "ungrammatical",
         "word_order",
-    "Laguage_spelling",
+        "preposition",
+    "language_spelling",
         "capitals",
-    "Language_punctuation",
+        "typo",
+    "language_punctuation",
     "Delete"
-]
+}
 
-CONTENT_MISTAKES = [
+CONTENT_MISTAKES = {
     "Content",
-        "content_reference",
-            "omission",
-            "non-sense",
-        "content_cohesion",
-            "theme",
-            "rheme",
-            "connector",
-            "logic",
-        "content_pragmatics",
-            "register",
-            "use"
-]
+    "content_reference",
+        "omission",
+        "distortion",
+        "nonsense",
+        "unclear",
+    "content_cohesion",
+        "ThemeRheme",
+        "logic",
+    "content_pragmatics",
+        "register"
+}
