@@ -7,7 +7,7 @@ NOT_AVAILABLE = "n/a"
 UNMATCHED = "unmatched"
 current_directory = "C:\LTC\\brat_sources\\"
 allowed_mistakes = [
-            "Content",
+    "Content",
         "content_reference",
             "omission",
             "non-sense",
@@ -35,8 +35,7 @@ allowed_mistakes = [
     "All:",
     "Content:",
     "Language:"
-
-        ]
+]
 
 lang_mistakes = [
     "Language",
@@ -52,9 +51,10 @@ lang_mistakes = [
         "capitals",
     "Language_punctuation",
     "Delete"
-        ]
+]
+
 content_mistakes = [
-            "Content",
+    "Content",
         "content_reference",
             "omission",
             "non-sense",
@@ -66,7 +66,7 @@ content_mistakes = [
         "content_pragmatics",
             "register",
             "use"
-        ]
+]
 
 
 def get_files_from_dir(dir_path):
@@ -88,6 +88,7 @@ def get_tech(tech1, tech2):
     print table
     return table
 
+
 def save_tech_table(table, file_name):
         with open(current_directory + "results_tech\\"+file_name, "w") as f:
                 for title, values in table.items():
@@ -95,7 +96,6 @@ def save_tech_table(table, file_name):
 
 
 def get_table(s1, s2):
-
     table = OrderedDict([(title, [0, 0]) for title in allowed_mistakes])
     content_count1 = 0
     lang_count1 = 0
@@ -126,10 +126,12 @@ def get_table(s1, s2):
     table["Language:"][1] = str(lang_count2)
     return table
 
+
 def save_table(table, file_name):
         with open(current_directory + "results\\"+file_name, "w") as f:
                 for title, values in table.items():
                         f.write("%30s  %s  %s\n" % (title, values[0], values[1]))
+
 
 def save_spans(s1_copy, s2_copy, filename):
     with open(current_directory + "span_results\\"+filename, "a") as f:
@@ -160,6 +162,7 @@ def save_spans_counters(counter, counters_deleted, counters_file1_left, counters
         for mist_type in allowed_mistakes:
             value = counters_mist_type_deleted.get(mist_type, 0)
             f.write("\t\t%s = %s\n" % (mist_type, value))
+
 
 def get_comparers_from_dir(dir_path):
     res = []
